@@ -1,0 +1,238 @@
+C:\Users\virtualiseur\Videos\LifeWorkSolution\LifeWork\bin\LifeWork.dll.config
+C:\Users\virtualiseur\Videos\LifeWorkSolution\LifeWork\bin\LifeWork.dll
+C:\Users\virtualiseur\Videos\LifeWorkSolution\LifeWork\bin\LifeWork.pdb
+C:\Users\virtualiseur\Videos\LifeWorkSolution\LifeWork\bin\LifeWork.xml
+C:\Users\virtualiseur\Videos\LifeWorkSolution\LifeWork\bin\Antlr3.Runtime.dll
+C:\Users\virtualiseur\Videos\LifeWorkSolution\LifeWork\bin\EntityFramework.dll
+C:\Users\virtualiseur\Videos\LifeWorkSolution\LifeWork\bin\EntityFramework.SqlServer.dll
+C:\Users\virtualiseur\Videos\LifeWorkSolution\LifeWork\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\virtualiseur\Videos\LifeWorkSolution\LifeWork\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\virtualiseur\Videos\LifeWorkSolution\LifeWork\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\virtualiseur\Videos\LifeWorkSolution\LifeWork\bin\Microsoft.Owin.dll
+C:\Users\virtualiseur\Videos\LifeWorkSolution\LifeWork\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\virtualiseur\Videos\LifeWorkSolution\LifeWork\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\virtualiseur\Videos\LifeWorkSolution\LifeWork\bin\Microsoft.Owin.Security.dll
+C:\Users\virtualiseur\Videos\LifeWorkSolution\LifeWork\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\virtualiseur\Videos\LifeWorkSolution\LifeWork\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\virtualiseur\Videos\LifeWorkSolution\LifeWork\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\virtualiseur\Videos\LifeWorkSolution\LifeWork\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\virtualiseur\Videos\LifeWorkSolution\LifeWork\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\virtualiseur\Videos\LifeWorkSolution\LifeWork\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\virtualiseur\Videos\LifeWorkSolution\LifeWork\bin\Newtonsoft.Json.dll
+C:\Users\virtualiseur\Videos\LifeWorkSolution\LifeWork\bin\Owin.dll
+C:\Users\virtualiseur\Videos\LifeWorkSolution\LifeWork\bin\System.Web.Helpers.dll
+C:\Users\virtualiseur\Videos\LifeWorkSolution\LifeWork\bin\System.Web.Mvc.dll
+C:\Users\virtualiseur\Videos\LifeWorkSolution\LifeWork\bin\System.Web.Optimization.dll
+C:\Users\virtualiseur\Videos\LifeWorkSolution\LifeWork\bin\System.Web.Razor.dll
+C:\Users\virtualiseur\Videos\LifeWorkSolution\LifeWork\bin\System.Web.WebPages.Deployment.dll
+C:\Users\virtualiseur\Videos\LifeWorkSolution\LifeWork\bin\System.Web.WebPages.dll
+C:\Users\virtualiseur\Videos\LifeWorkSolution\LifeWork\bin\System.Web.WebPages.Razor.dll
+C:\Users\virtualiseur\Videos\LifeWorkSolution\LifeWork\bin\WebGrease.dll
+C:\Users\virtualiseur\Videos\LifeWorkSolution\LifeWork\bin\System.Web.Helpers.xml
+C:\Users\virtualiseur\Videos\LifeWorkSolution\LifeWork\bin\System.Web.Mvc.xml
+C:\Users\virtualiseur\Videos\LifeWorkSolution\LifeWork\bin\System.Web.Optimization.xml
+C:\Users\virtualiseur\Videos\LifeWorkSolution\LifeWork\bin\System.Web.Razor.xml
+C:\Users\virtualiseur\Videos\LifeWorkSolution\LifeWork\bin\System.Web.WebPages.xml
+C:\Users\virtualiseur\Videos\LifeWorkSolution\LifeWork\bin\System.Web.WebPages.Deployment.xml
+C:\Users\virtualiseur\Videos\LifeWorkSolution\LifeWork\bin\System.Web.WebPages.Razor.xml
+C:\Users\virtualiseur\Videos\LifeWorkSolution\LifeWork\bin\Newtonsoft.Json.xml
+C:\Users\virtualiseur\Videos\LifeWorkSolution\LifeWork\bin\Antlr3.Runtime.pdb
+C:\Users\virtualiseur\Videos\LifeWorkSolution\LifeWork\bin\EntityFramework.xml
+C:\Users\virtualiseur\Videos\LifeWorkSolution\LifeWork\bin\EntityFramework.SqlServer.xml
+C:\Users\virtualiseur\Videos\LifeWorkSolution\LifeWork\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\virtualiseur\Videos\LifeWorkSolution\LifeWork\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\virtualiseur\Videos\LifeWorkSolution\LifeWork\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\virtualiseur\Videos\LifeWorkSolution\LifeWork\bin\Microsoft.Owin.xml
+C:\Users\virtualiseur\Videos\LifeWorkSolution\LifeWork\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\virtualiseur\Videos\LifeWorkSolution\LifeWork\bin\Microsoft.Owin.Security.xml
+C:\Users\virtualiseur\Videos\LifeWorkSolution\LifeWork\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\virtualiseur\Videos\LifeWorkSolution\LifeWork\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\virtualiseur\Videos\LifeWorkSolution\LifeWork\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\virtualiseur\Videos\LifeWorkSolution\LifeWork\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\virtualiseur\Videos\LifeWorkSolution\LifeWork\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\virtualiseur\Videos\LifeWorkSolution\LifeWork\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\virtualiseur\Videos\LifeWorkSolution\LifeWork\bin\fr\System.Web.Helpers.resources.dll
+C:\Users\virtualiseur\Videos\LifeWorkSolution\LifeWork\bin\fr\System.Web.Mvc.resources.dll
+C:\Users\virtualiseur\Videos\LifeWorkSolution\LifeWork\bin\fr\System.Web.Optimization.resources.dll
+C:\Users\virtualiseur\Videos\LifeWorkSolution\LifeWork\bin\fr\System.Web.Razor.resources.dll
+C:\Users\virtualiseur\Videos\LifeWorkSolution\LifeWork\bin\fr\System.Web.WebPages.resources.dll
+C:\Users\virtualiseur\Videos\LifeWorkSolution\LifeWork\bin\fr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\virtualiseur\Videos\LifeWorkSolution\LifeWork\bin\fr\System.Web.WebPages.Razor.resources.dll
+C:\Users\virtualiseur\Videos\LifeWorkSolution\LifeWork\bin\fr\EntityFramework.resources.dll
+C:\Users\virtualiseur\Videos\LifeWorkSolution\LifeWork\bin\fr\EntityFramework.SqlServer.resources.dll
+C:\Users\virtualiseur\Videos\LifeWorkSolution\LifeWork\bin\fr\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\virtualiseur\Videos\LifeWorkSolution\LifeWork\bin\fr\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\virtualiseur\Videos\LifeWorkSolution\LifeWork\bin\fr\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\virtualiseur\Videos\LifeWorkSolution\LifeWork\bin\fr\Microsoft.Owin.resources.dll
+C:\Users\virtualiseur\Videos\LifeWorkSolution\LifeWork\bin\fr\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\virtualiseur\Videos\LifeWorkSolution\LifeWork\bin\fr\Microsoft.Owin.Security.resources.dll
+C:\Users\virtualiseur\Videos\LifeWorkSolution\LifeWork\bin\fr\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\virtualiseur\Videos\LifeWorkSolution\LifeWork\bin\fr\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\virtualiseur\Videos\LifeWorkSolution\LifeWork\bin\fr\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\virtualiseur\Videos\LifeWorkSolution\LifeWork\bin\fr\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\virtualiseur\Videos\LifeWorkSolution\LifeWork\obj\Release\LifeWork.Resource.resources
+C:\Users\virtualiseur\Videos\LifeWorkSolution\LifeWork\obj\Release\LifeWork.Migrations.lifeWDB.resources
+C:\Users\virtualiseur\Videos\LifeWorkSolution\LifeWork\obj\Release\LifeWork.Resources.resources
+C:\Users\virtualiseur\Videos\LifeWorkSolution\LifeWork\obj\Release\LifeWork.vbproj.GenerateResource.Cache
+C:\Users\virtualiseur\Videos\LifeWorkSolution\LifeWork\obj\Release\LifeWork.dll
+C:\Users\virtualiseur\Videos\LifeWorkSolution\LifeWork\obj\Release\LifeWork.xml
+C:\Users\virtualiseur\Videos\LifeWorkSolution\LifeWork\obj\Release\LifeWork.pdb
+E:\IAI-Cameroun 3\Cloud Informations System\Code\ASP\LifeWorkSolution\LifeWork\bin\LifeWork.dll.config
+E:\IAI-Cameroun 3\Cloud Informations System\Code\ASP\LifeWorkSolution\LifeWork\bin\LifeWork.dll
+E:\IAI-Cameroun 3\Cloud Informations System\Code\ASP\LifeWorkSolution\LifeWork\bin\LifeWork.pdb
+E:\IAI-Cameroun 3\Cloud Informations System\Code\ASP\LifeWorkSolution\LifeWork\bin\LifeWork.xml
+E:\IAI-Cameroun 3\Cloud Informations System\Code\ASP\LifeWorkSolution\LifeWork\bin\Antlr3.Runtime.dll
+E:\IAI-Cameroun 3\Cloud Informations System\Code\ASP\LifeWorkSolution\LifeWork\bin\EntityFramework.dll
+E:\IAI-Cameroun 3\Cloud Informations System\Code\ASP\LifeWorkSolution\LifeWork\bin\EntityFramework.SqlServer.dll
+E:\IAI-Cameroun 3\Cloud Informations System\Code\ASP\LifeWorkSolution\LifeWork\bin\Microsoft.AspNet.Identity.Core.dll
+E:\IAI-Cameroun 3\Cloud Informations System\Code\ASP\LifeWorkSolution\LifeWork\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\IAI-Cameroun 3\Cloud Informations System\Code\ASP\LifeWorkSolution\LifeWork\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\IAI-Cameroun 3\Cloud Informations System\Code\ASP\LifeWorkSolution\LifeWork\bin\Microsoft.Owin.dll
+E:\IAI-Cameroun 3\Cloud Informations System\Code\ASP\LifeWorkSolution\LifeWork\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\IAI-Cameroun 3\Cloud Informations System\Code\ASP\LifeWorkSolution\LifeWork\bin\Microsoft.Owin.Security.Cookies.dll
+E:\IAI-Cameroun 3\Cloud Informations System\Code\ASP\LifeWorkSolution\LifeWork\bin\Microsoft.Owin.Security.dll
+E:\IAI-Cameroun 3\Cloud Informations System\Code\ASP\LifeWorkSolution\LifeWork\bin\Microsoft.Owin.Security.Facebook.dll
+E:\IAI-Cameroun 3\Cloud Informations System\Code\ASP\LifeWorkSolution\LifeWork\bin\Microsoft.Owin.Security.Google.dll
+E:\IAI-Cameroun 3\Cloud Informations System\Code\ASP\LifeWorkSolution\LifeWork\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\IAI-Cameroun 3\Cloud Informations System\Code\ASP\LifeWorkSolution\LifeWork\bin\Microsoft.Owin.Security.OAuth.dll
+E:\IAI-Cameroun 3\Cloud Informations System\Code\ASP\LifeWorkSolution\LifeWork\bin\Microsoft.Owin.Security.Twitter.dll
+E:\IAI-Cameroun 3\Cloud Informations System\Code\ASP\LifeWorkSolution\LifeWork\bin\Microsoft.Web.Infrastructure.dll
+E:\IAI-Cameroun 3\Cloud Informations System\Code\ASP\LifeWorkSolution\LifeWork\bin\Newtonsoft.Json.dll
+E:\IAI-Cameroun 3\Cloud Informations System\Code\ASP\LifeWorkSolution\LifeWork\bin\Owin.dll
+E:\IAI-Cameroun 3\Cloud Informations System\Code\ASP\LifeWorkSolution\LifeWork\bin\System.Web.Helpers.dll
+E:\IAI-Cameroun 3\Cloud Informations System\Code\ASP\LifeWorkSolution\LifeWork\bin\System.Web.Mvc.dll
+E:\IAI-Cameroun 3\Cloud Informations System\Code\ASP\LifeWorkSolution\LifeWork\bin\System.Web.Optimization.dll
+E:\IAI-Cameroun 3\Cloud Informations System\Code\ASP\LifeWorkSolution\LifeWork\bin\System.Web.Razor.dll
+E:\IAI-Cameroun 3\Cloud Informations System\Code\ASP\LifeWorkSolution\LifeWork\bin\System.Web.WebPages.Deployment.dll
+E:\IAI-Cameroun 3\Cloud Informations System\Code\ASP\LifeWorkSolution\LifeWork\bin\System.Web.WebPages.dll
+E:\IAI-Cameroun 3\Cloud Informations System\Code\ASP\LifeWorkSolution\LifeWork\bin\System.Web.WebPages.Razor.dll
+E:\IAI-Cameroun 3\Cloud Informations System\Code\ASP\LifeWorkSolution\LifeWork\bin\WebGrease.dll
+E:\IAI-Cameroun 3\Cloud Informations System\Code\ASP\LifeWorkSolution\LifeWork\bin\System.Web.Helpers.xml
+E:\IAI-Cameroun 3\Cloud Informations System\Code\ASP\LifeWorkSolution\LifeWork\bin\System.Web.Mvc.xml
+E:\IAI-Cameroun 3\Cloud Informations System\Code\ASP\LifeWorkSolution\LifeWork\bin\System.Web.Optimization.xml
+E:\IAI-Cameroun 3\Cloud Informations System\Code\ASP\LifeWorkSolution\LifeWork\bin\System.Web.Razor.xml
+E:\IAI-Cameroun 3\Cloud Informations System\Code\ASP\LifeWorkSolution\LifeWork\bin\System.Web.WebPages.xml
+E:\IAI-Cameroun 3\Cloud Informations System\Code\ASP\LifeWorkSolution\LifeWork\bin\System.Web.WebPages.Deployment.xml
+E:\IAI-Cameroun 3\Cloud Informations System\Code\ASP\LifeWorkSolution\LifeWork\bin\System.Web.WebPages.Razor.xml
+E:\IAI-Cameroun 3\Cloud Informations System\Code\ASP\LifeWorkSolution\LifeWork\bin\Newtonsoft.Json.xml
+E:\IAI-Cameroun 3\Cloud Informations System\Code\ASP\LifeWorkSolution\LifeWork\bin\Antlr3.Runtime.pdb
+E:\IAI-Cameroun 3\Cloud Informations System\Code\ASP\LifeWorkSolution\LifeWork\bin\EntityFramework.xml
+E:\IAI-Cameroun 3\Cloud Informations System\Code\ASP\LifeWorkSolution\LifeWork\bin\EntityFramework.SqlServer.xml
+E:\IAI-Cameroun 3\Cloud Informations System\Code\ASP\LifeWorkSolution\LifeWork\bin\Microsoft.AspNet.Identity.Core.xml
+E:\IAI-Cameroun 3\Cloud Informations System\Code\ASP\LifeWorkSolution\LifeWork\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\IAI-Cameroun 3\Cloud Informations System\Code\ASP\LifeWorkSolution\LifeWork\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\IAI-Cameroun 3\Cloud Informations System\Code\ASP\LifeWorkSolution\LifeWork\bin\Microsoft.Owin.xml
+E:\IAI-Cameroun 3\Cloud Informations System\Code\ASP\LifeWorkSolution\LifeWork\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\IAI-Cameroun 3\Cloud Informations System\Code\ASP\LifeWorkSolution\LifeWork\bin\Microsoft.Owin.Security.xml
+E:\IAI-Cameroun 3\Cloud Informations System\Code\ASP\LifeWorkSolution\LifeWork\bin\Microsoft.Owin.Security.Facebook.xml
+E:\IAI-Cameroun 3\Cloud Informations System\Code\ASP\LifeWorkSolution\LifeWork\bin\Microsoft.Owin.Security.OAuth.xml
+E:\IAI-Cameroun 3\Cloud Informations System\Code\ASP\LifeWorkSolution\LifeWork\bin\Microsoft.Owin.Security.Cookies.xml
+E:\IAI-Cameroun 3\Cloud Informations System\Code\ASP\LifeWorkSolution\LifeWork\bin\Microsoft.Owin.Security.Google.xml
+E:\IAI-Cameroun 3\Cloud Informations System\Code\ASP\LifeWorkSolution\LifeWork\bin\Microsoft.Owin.Security.Twitter.xml
+E:\IAI-Cameroun 3\Cloud Informations System\Code\ASP\LifeWorkSolution\LifeWork\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\IAI-Cameroun 3\Cloud Informations System\Code\ASP\LifeWorkSolution\LifeWork\bin\fr\System.Web.Helpers.resources.dll
+E:\IAI-Cameroun 3\Cloud Informations System\Code\ASP\LifeWorkSolution\LifeWork\bin\fr\System.Web.Mvc.resources.dll
+E:\IAI-Cameroun 3\Cloud Informations System\Code\ASP\LifeWorkSolution\LifeWork\bin\fr\System.Web.Optimization.resources.dll
+E:\IAI-Cameroun 3\Cloud Informations System\Code\ASP\LifeWorkSolution\LifeWork\bin\fr\System.Web.Razor.resources.dll
+E:\IAI-Cameroun 3\Cloud Informations System\Code\ASP\LifeWorkSolution\LifeWork\bin\fr\System.Web.WebPages.resources.dll
+E:\IAI-Cameroun 3\Cloud Informations System\Code\ASP\LifeWorkSolution\LifeWork\bin\fr\System.Web.WebPages.Deployment.resources.dll
+E:\IAI-Cameroun 3\Cloud Informations System\Code\ASP\LifeWorkSolution\LifeWork\bin\fr\System.Web.WebPages.Razor.resources.dll
+E:\IAI-Cameroun 3\Cloud Informations System\Code\ASP\LifeWorkSolution\LifeWork\bin\fr\EntityFramework.resources.dll
+E:\IAI-Cameroun 3\Cloud Informations System\Code\ASP\LifeWorkSolution\LifeWork\bin\fr\EntityFramework.SqlServer.resources.dll
+E:\IAI-Cameroun 3\Cloud Informations System\Code\ASP\LifeWorkSolution\LifeWork\bin\fr\Microsoft.AspNet.Identity.Core.resources.dll
+E:\IAI-Cameroun 3\Cloud Informations System\Code\ASP\LifeWorkSolution\LifeWork\bin\fr\Microsoft.AspNet.Identity.Owin.resources.dll
+E:\IAI-Cameroun 3\Cloud Informations System\Code\ASP\LifeWorkSolution\LifeWork\bin\fr\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+E:\IAI-Cameroun 3\Cloud Informations System\Code\ASP\LifeWorkSolution\LifeWork\bin\fr\Microsoft.Owin.resources.dll
+E:\IAI-Cameroun 3\Cloud Informations System\Code\ASP\LifeWorkSolution\LifeWork\bin\fr\Microsoft.Owin.Host.SystemWeb.resources.dll
+E:\IAI-Cameroun 3\Cloud Informations System\Code\ASP\LifeWorkSolution\LifeWork\bin\fr\Microsoft.Owin.Security.resources.dll
+E:\IAI-Cameroun 3\Cloud Informations System\Code\ASP\LifeWorkSolution\LifeWork\bin\fr\Microsoft.Owin.Security.Facebook.resources.dll
+E:\IAI-Cameroun 3\Cloud Informations System\Code\ASP\LifeWorkSolution\LifeWork\bin\fr\Microsoft.Owin.Security.Google.resources.dll
+E:\IAI-Cameroun 3\Cloud Informations System\Code\ASP\LifeWorkSolution\LifeWork\bin\fr\Microsoft.Owin.Security.Twitter.resources.dll
+E:\IAI-Cameroun 3\Cloud Informations System\Code\ASP\LifeWorkSolution\LifeWork\bin\fr\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+E:\IAI-Cameroun 3\Cloud Informations System\Code\ASP\LifeWorkSolution\LifeWork\obj\Release\LifeWork.Resource.resources
+E:\IAI-Cameroun 3\Cloud Informations System\Code\ASP\LifeWorkSolution\LifeWork\obj\Release\LifeWork.Resources.resources
+E:\IAI-Cameroun 3\Cloud Informations System\Code\ASP\LifeWorkSolution\LifeWork\obj\Release\LifeWork.vbproj.GenerateResource.Cache
+E:\IAI-Cameroun 3\Cloud Informations System\Code\ASP\LifeWorkSolution\LifeWork\obj\Release\LifeWork.dll
+E:\IAI-Cameroun 3\Cloud Informations System\Code\ASP\LifeWorkSolution\LifeWork\obj\Release\LifeWork.xml
+E:\IAI-Cameroun 3\Cloud Informations System\Code\ASP\LifeWorkSolution\LifeWork\obj\Release\LifeWork.pdb
+E:\IAI-Cameroun 3\Cloud Informations System\Code\ASP\LifeWorkSolution\LifeWork\obj\Release\LifeWork.Migrations.LifeWork_New.resources
+E:\projets\app freelance\LF1\LifeWorkSolution\LifeWorkSolution\LifeWork\bin\LifeWork.dll.config
+E:\projets\app freelance\LF1\LifeWorkSolution\LifeWorkSolution\LifeWork\bin\LifeWork.dll
+E:\projets\app freelance\LF1\LifeWorkSolution\LifeWorkSolution\LifeWork\bin\LifeWork.pdb
+E:\projets\app freelance\LF1\LifeWorkSolution\LifeWorkSolution\LifeWork\bin\LifeWork.xml
+E:\projets\app freelance\LF1\LifeWorkSolution\LifeWorkSolution\LifeWork\bin\Antlr3.Runtime.dll
+E:\projets\app freelance\LF1\LifeWorkSolution\LifeWorkSolution\LifeWork\bin\EntityFramework.dll
+E:\projets\app freelance\LF1\LifeWorkSolution\LifeWorkSolution\LifeWork\bin\EntityFramework.SqlServer.dll
+E:\projets\app freelance\LF1\LifeWorkSolution\LifeWorkSolution\LifeWork\bin\Microsoft.AspNet.Identity.Core.dll
+E:\projets\app freelance\LF1\LifeWorkSolution\LifeWorkSolution\LifeWork\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\projets\app freelance\LF1\LifeWorkSolution\LifeWorkSolution\LifeWork\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\projets\app freelance\LF1\LifeWorkSolution\LifeWorkSolution\LifeWork\bin\Microsoft.Owin.dll
+E:\projets\app freelance\LF1\LifeWorkSolution\LifeWorkSolution\LifeWork\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\projets\app freelance\LF1\LifeWorkSolution\LifeWorkSolution\LifeWork\bin\Microsoft.Owin.Security.Cookies.dll
+E:\projets\app freelance\LF1\LifeWorkSolution\LifeWorkSolution\LifeWork\bin\Microsoft.Owin.Security.dll
+E:\projets\app freelance\LF1\LifeWorkSolution\LifeWorkSolution\LifeWork\bin\Microsoft.Owin.Security.Facebook.dll
+E:\projets\app freelance\LF1\LifeWorkSolution\LifeWorkSolution\LifeWork\bin\Microsoft.Owin.Security.Google.dll
+E:\projets\app freelance\LF1\LifeWorkSolution\LifeWorkSolution\LifeWork\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\projets\app freelance\LF1\LifeWorkSolution\LifeWorkSolution\LifeWork\bin\Microsoft.Owin.Security.OAuth.dll
+E:\projets\app freelance\LF1\LifeWorkSolution\LifeWorkSolution\LifeWork\bin\Microsoft.Owin.Security.Twitter.dll
+E:\projets\app freelance\LF1\LifeWorkSolution\LifeWorkSolution\LifeWork\bin\Microsoft.Web.Infrastructure.dll
+E:\projets\app freelance\LF1\LifeWorkSolution\LifeWorkSolution\LifeWork\bin\Newtonsoft.Json.dll
+E:\projets\app freelance\LF1\LifeWorkSolution\LifeWorkSolution\LifeWork\bin\Owin.dll
+E:\projets\app freelance\LF1\LifeWorkSolution\LifeWorkSolution\LifeWork\bin\System.Web.Helpers.dll
+E:\projets\app freelance\LF1\LifeWorkSolution\LifeWorkSolution\LifeWork\bin\System.Web.Mvc.dll
+E:\projets\app freelance\LF1\LifeWorkSolution\LifeWorkSolution\LifeWork\bin\System.Web.Optimization.dll
+E:\projets\app freelance\LF1\LifeWorkSolution\LifeWorkSolution\LifeWork\bin\System.Web.Razor.dll
+E:\projets\app freelance\LF1\LifeWorkSolution\LifeWorkSolution\LifeWork\bin\System.Web.WebPages.Deployment.dll
+E:\projets\app freelance\LF1\LifeWorkSolution\LifeWorkSolution\LifeWork\bin\System.Web.WebPages.dll
+E:\projets\app freelance\LF1\LifeWorkSolution\LifeWorkSolution\LifeWork\bin\System.Web.WebPages.Razor.dll
+E:\projets\app freelance\LF1\LifeWorkSolution\LifeWorkSolution\LifeWork\bin\WebGrease.dll
+E:\projets\app freelance\LF1\LifeWorkSolution\LifeWorkSolution\LifeWork\bin\EntityFramework.xml
+E:\projets\app freelance\LF1\LifeWorkSolution\LifeWorkSolution\LifeWork\bin\EntityFramework.SqlServer.xml
+E:\projets\app freelance\LF1\LifeWorkSolution\LifeWorkSolution\LifeWork\bin\System.Web.Helpers.xml
+E:\projets\app freelance\LF1\LifeWorkSolution\LifeWorkSolution\LifeWork\bin\System.Web.Mvc.xml
+E:\projets\app freelance\LF1\LifeWorkSolution\LifeWorkSolution\LifeWork\bin\System.Web.Optimization.xml
+E:\projets\app freelance\LF1\LifeWorkSolution\LifeWorkSolution\LifeWork\bin\System.Web.Razor.xml
+E:\projets\app freelance\LF1\LifeWorkSolution\LifeWorkSolution\LifeWork\bin\System.Web.WebPages.xml
+E:\projets\app freelance\LF1\LifeWorkSolution\LifeWorkSolution\LifeWork\bin\System.Web.WebPages.Deployment.xml
+E:\projets\app freelance\LF1\LifeWorkSolution\LifeWorkSolution\LifeWork\bin\System.Web.WebPages.Razor.xml
+E:\projets\app freelance\LF1\LifeWorkSolution\LifeWorkSolution\LifeWork\bin\Newtonsoft.Json.xml
+E:\projets\app freelance\LF1\LifeWorkSolution\LifeWorkSolution\LifeWork\bin\Antlr3.Runtime.pdb
+E:\projets\app freelance\LF1\LifeWorkSolution\LifeWorkSolution\LifeWork\bin\Microsoft.AspNet.Identity.Core.xml
+E:\projets\app freelance\LF1\LifeWorkSolution\LifeWorkSolution\LifeWork\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\projets\app freelance\LF1\LifeWorkSolution\LifeWorkSolution\LifeWork\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\projets\app freelance\LF1\LifeWorkSolution\LifeWorkSolution\LifeWork\bin\Microsoft.Owin.xml
+E:\projets\app freelance\LF1\LifeWorkSolution\LifeWorkSolution\LifeWork\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\projets\app freelance\LF1\LifeWorkSolution\LifeWorkSolution\LifeWork\bin\Microsoft.Owin.Security.xml
+E:\projets\app freelance\LF1\LifeWorkSolution\LifeWorkSolution\LifeWork\bin\Microsoft.Owin.Security.Facebook.xml
+E:\projets\app freelance\LF1\LifeWorkSolution\LifeWorkSolution\LifeWork\bin\Microsoft.Owin.Security.OAuth.xml
+E:\projets\app freelance\LF1\LifeWorkSolution\LifeWorkSolution\LifeWork\bin\Microsoft.Owin.Security.Cookies.xml
+E:\projets\app freelance\LF1\LifeWorkSolution\LifeWorkSolution\LifeWork\bin\Microsoft.Owin.Security.Google.xml
+E:\projets\app freelance\LF1\LifeWorkSolution\LifeWorkSolution\LifeWork\bin\Microsoft.Owin.Security.Twitter.xml
+E:\projets\app freelance\LF1\LifeWorkSolution\LifeWorkSolution\LifeWork\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\projets\app freelance\LF1\LifeWorkSolution\LifeWorkSolution\LifeWork\bin\fr\EntityFramework.resources.dll
+E:\projets\app freelance\LF1\LifeWorkSolution\LifeWorkSolution\LifeWork\bin\fr\EntityFramework.SqlServer.resources.dll
+E:\projets\app freelance\LF1\LifeWorkSolution\LifeWorkSolution\LifeWork\bin\fr\System.Web.Helpers.resources.dll
+E:\projets\app freelance\LF1\LifeWorkSolution\LifeWorkSolution\LifeWork\bin\fr\System.Web.Mvc.resources.dll
+E:\projets\app freelance\LF1\LifeWorkSolution\LifeWorkSolution\LifeWork\bin\fr\System.Web.Optimization.resources.dll
+E:\projets\app freelance\LF1\LifeWorkSolution\LifeWorkSolution\LifeWork\bin\fr\System.Web.Razor.resources.dll
+E:\projets\app freelance\LF1\LifeWorkSolution\LifeWorkSolution\LifeWork\bin\fr\System.Web.WebPages.resources.dll
+E:\projets\app freelance\LF1\LifeWorkSolution\LifeWorkSolution\LifeWork\bin\fr\System.Web.WebPages.Deployment.resources.dll
+E:\projets\app freelance\LF1\LifeWorkSolution\LifeWorkSolution\LifeWork\bin\fr\System.Web.WebPages.Razor.resources.dll
+E:\projets\app freelance\LF1\LifeWorkSolution\LifeWorkSolution\LifeWork\bin\fr\Microsoft.AspNet.Identity.Core.resources.dll
+E:\projets\app freelance\LF1\LifeWorkSolution\LifeWorkSolution\LifeWork\bin\fr\Microsoft.AspNet.Identity.Owin.resources.dll
+E:\projets\app freelance\LF1\LifeWorkSolution\LifeWorkSolution\LifeWork\bin\fr\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+E:\projets\app freelance\LF1\LifeWorkSolution\LifeWorkSolution\LifeWork\bin\fr\Microsoft.Owin.resources.dll
+E:\projets\app freelance\LF1\LifeWorkSolution\LifeWorkSolution\LifeWork\bin\fr\Microsoft.Owin.Host.SystemWeb.resources.dll
+E:\projets\app freelance\LF1\LifeWorkSolution\LifeWorkSolution\LifeWork\bin\fr\Microsoft.Owin.Security.resources.dll
+E:\projets\app freelance\LF1\LifeWorkSolution\LifeWorkSolution\LifeWork\bin\fr\Microsoft.Owin.Security.Facebook.resources.dll
+E:\projets\app freelance\LF1\LifeWorkSolution\LifeWorkSolution\LifeWork\bin\fr\Microsoft.Owin.Security.Google.resources.dll
+E:\projets\app freelance\LF1\LifeWorkSolution\LifeWorkSolution\LifeWork\bin\fr\Microsoft.Owin.Security.Twitter.resources.dll
+E:\projets\app freelance\LF1\LifeWorkSolution\LifeWorkSolution\LifeWork\bin\fr\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+E:\projets\app freelance\LF1\LifeWorkSolution\LifeWorkSolution\LifeWork\obj\Release\LifeWork.Resource.resources
+E:\projets\app freelance\LF1\LifeWorkSolution\LifeWorkSolution\LifeWork\obj\Release\LifeWork.Migrations.LifeWorkDB.resources
+E:\projets\app freelance\LF1\LifeWorkSolution\LifeWorkSolution\LifeWork\obj\Release\LifeWork.Resources.resources
+E:\projets\app freelance\LF1\LifeWorkSolution\LifeWorkSolution\LifeWork\obj\Release\LifeWork.vbproj.GenerateResource.Cache
+E:\projets\app freelance\LF1\LifeWorkSolution\LifeWorkSolution\LifeWork\obj\Release\LifeWork.dll
+E:\projets\app freelance\LF1\LifeWorkSolution\LifeWorkSolution\LifeWork\obj\Release\LifeWork.xml
+E:\projets\app freelance\LF1\LifeWorkSolution\LifeWorkSolution\LifeWork\obj\Release\LifeWork.pdb
+E:\projets\app freelance\LF1\LifeWorkSolution\LifeWorkSolution\LifeWork\obj\Release\LifeWork.vbprojResolveAssemblyReference.cache

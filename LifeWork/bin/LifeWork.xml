@@ -1,0 +1,1643 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+LifeWork
+</name>
+</assembly>
+<members>
+<member name="T:LifeWork.My.Resources.Resource">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.A_Accent">
+<summary>
+  Looks up a localized string similar to à.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Abreviation_Pays">
+<summary>
+  Looks up a localized string similar to Abréviation du pays.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Adresse_Reference">
+<summary>
+  Looks up a localized string similar to Adresse de la référence.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Annee_Reference">
+<summary>
+  Looks up a localized string similar to Année de la référence.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.attribuer_Job">
+<summary>
+  Looks up a localized string similar to Attribuer Job.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Btn_Ajouter">
+<summary>
+  Looks up a localized string similar to Ajouter.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Btn_Annuler">
+<summary>
+  Looks up a localized string similar to Annuler.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Btn_Enregistrer">
+<summary>
+  Looks up a localized string similar to Enregistrer.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Btn_Nouveau">
+<summary>
+  Looks up a localized string similar to Nouveau.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Btn_Precedent">
+<summary>
+  Looks up a localized string similar to Precédent.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Btn_Retour">
+<summary>
+  Looks up a localized string similar to Retour.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Btn_Supprimer">
+<summary>
+  Looks up a localized string similar to Supprimer.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.BudgetAttribution_Jobs">
+<summary>
+  Looks up a localized string similar to Budget d&apos;attribution.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.BudgetExige_PostulerJob">
+<summary>
+  Looks up a localized string similar to Budget requis.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.BudgetMaximal_Jobs">
+<summary>
+  Looks up a localized string similar to Budget maximal.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.BudgetMinimal_Jobs">
+<summary>
+  Looks up a localized string similar to Budget minimal.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.CahierDeCharge_Jobs">
+<summary>
+  Looks up a localized string similar to Cahier de charges du jobs.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.CDC">
+<summary>
+  Looks up a localized string similar to Cahier des charges.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Cni">
+<summary>
+  Looks up a localized string similar to CNI.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Code_CompteBanquaire">
+<summary>
+  Looks up a localized string similar to Code du compte bancaire.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Code_Jobs">
+<summary>
+  Looks up a localized string similar to Code du jobs.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Code_SousSecteurActivite">
+<summary>
+  Looks up a localized string similar to Code du sous-secteur d&apos;activité.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Commentaire_Divers">
+<summary>
+  Looks up a localized string similar to Commentaire sur ce divers.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.ConfirmDelete">
+<summary>
+  Looks up a localized string similar to Etes-vous sûr de vouloir supprimer cet enregistrement ?.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Contact_Employeur">
+<summary>
+  Looks up a localized string similar to Contacter l&apos;employeur.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Contenu_Commentaire">
+<summary>
+  Looks up a localized string similar to Votre commentaire.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Contenu_Messagerie">
+<summary>
+  Looks up a localized string similar to Contenu du message.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Contenu_Notification">
+<summary>
+  Looks up a localized string similar to Contenu de la notification.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Create_Certification">
+<summary>
+  Looks up a localized string similar to Ajouter une nouvelle certification.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Create_Commentaire">
+<summary>
+  Looks up a localized string similar to Ajouter votre commentaire.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Create_Competence">
+<summary>
+  Looks up a localized string similar to Ajouter une nouvelle compétence.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Create_CompteBancaire">
+<summary>
+  Looks up a localized string similar to Ajouter un compte bancaire.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Create_ConsulterCv">
+<summary>
+  Looks up a localized string similar to Ajouter.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Create_Cursus">
+<summary>
+  Looks up a localized string similar to Ajouter un nouveau cursus.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Create_Cv">
+<summary>
+  Looks up a localized string similar to Creer un CV.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Create_Divers">
+<summary>
+  Looks up a localized string similar to Ajouter un nouveau divers.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Create_Jobs">
+<summary>
+  Looks up a localized string similar to Publier un nouveau jobs.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Create_JobsNotification">
+<summary>
+  Looks up a localized string similar to Ajouter une notification sur un jobs.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Create_Messagerie">
+<summary>
+  Looks up a localized string similar to Envoyer un message.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Create_NoterJob">
+<summary>
+  Looks up a localized string similar to Noter une prestation/service.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Create_Notification">
+<summary>
+  Looks up a localized string similar to Nouvelle notification.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Create_Pays">
+<summary>
+  Looks up a localized string similar to Ajouter un nouveau pays.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Create_PersonneDeReference">
+<summary>
+  Looks up a localized string similar to Ajouter une personne de reférence.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Create_PieceJointe">
+<summary>
+  Looks up a localized string similar to Ajouter une piece jointe.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Create_PostulerJob">
+<summary>
+  Looks up a localized string similar to Postuler a un jobs.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Create_Reference">
+<summary>
+  Looks up a localized string similar to Ajouter une nouvelle reférence.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Create_SecteurActivite">
+<summary>
+  Looks up a localized string similar to Nouveau secteur d&apos;activité.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Create_Service">
+<summary>
+  Looks up a localized string similar to Ajouter un service.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Create_SousSecteurActivite">
+<summary>
+  Looks up a localized string similar to AJouter un sous-secteur d&apos;activité.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Create_Statut">
+<summary>
+  Looks up a localized string similar to Ajouter un nouveau statut.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Create_TypeCompte">
+<summary>
+  Looks up a localized string similar to Ajouter un type de compte.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Create_TypeCursus">
+<summary>
+  Looks up a localized string similar to Ajouter un type de cursus.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Create_TypeJob">
+<summary>
+  Looks up a localized string similar to Creer un type de job.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Create_TypeMessagerie">
+<summary>
+  Looks up a localized string similar to Ajouter un type de messagerie.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Create_UserSousSecteurActivite">
+<summary>
+  Looks up a localized string similar to Ajouter un user ssa.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Cv">
+<summary>
+  Looks up a localized string similar to Curriculum vitea.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.D_Un">
+<summary>
+  Looks up a localized string similar to d&apos;un.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Dashboard">
+<summary>
+  Looks up a localized string similar to Tableau de bord.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.DataType_Date">
+<summary>
+  Looks up a localized string similar to Le champ «&lt;span style=&quot;font-style:italic;color:black;&quot;&gt;{0}&lt;/span&gt;» doit être une date..
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.DataType_Date_Content">
+<summary>
+  Looks up a localized string similar to Le champ «&lt;span style=&quot;font-style:italic;color:black;&quot;&gt;{0}&lt;/span&gt;» doit contenir une date..
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.DataType_Decimal">
+<summary>
+  Looks up a localized string similar to Le champ «&lt;span style=&quot;font-style:italic;color:black;&quot;&gt;{0}&lt;/span&gt;» doit être un nombre à virgule..
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.DataType_Double">
+<summary>
+  Looks up a localized string similar to Le champ doit contenir des chiffires uniquement..
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.DataType_Number">
+<summary>
+  Looks up a localized string similar to Le champ «&lt;span style=&quot;font-style:italic;color:black;&quot;&gt;{0}&lt;/span&gt;» doit contenir une date..
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.DataType_String">
+<summary>
+  Looks up a localized string similar to Le champ «&lt;span style=&quot;font-style:italic;color:black;&quot;&gt;{0}&lt;/span&gt;» doit être une chaine..
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Datatype_String_Content">
+<summary>
+  Looks up a localized string similar to Le champ doit contenir une chaine..
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.DateAttribution_Jobs">
+<summary>
+  Looks up a localized string similar to Date d&apos;attribution.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.DateCloture_Jobs">
+<summary>
+  Looks up a localized string similar to Date de fermeture.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.DateConsulter_ConsulterCv">
+<summary>
+  Looks up a localized string similar to Date de consultation.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.DateCreation">
+<summary>
+  Looks up a localized string similar to Date de création.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.DateEnvoi_Messagerie">
+<summary>
+  Looks up a localized string similar to Date d&apos;envoi du message.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.DateEnvoi_Notification">
+<summary>
+  Looks up a localized string similar to Date d&apos;envoi de la notification.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.DateEnvoi_PostulerJob">
+<summary>
+  Looks up a localized string similar to Date d&apos;envoi.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.DateNaissance">
+<summary>
+  Looks up a localized string similar to Date de naissance.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.DateObtention_Certification">
+<summary>
+  Looks up a localized string similar to Date d&apos;obtention de la certification.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.DatePeremption_CompteBancaire">
+<summary>
+  Looks up a localized string similar to Date de péremption.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.DatePostulation_Service">
+<summary>
+  Looks up a localized string similar to Date de postulation du service.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.DatePrevueLivraison_Jobs">
+<summary>
+  Looks up a localized string similar to Date prévue d&apos;achèvement.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.DatePublication_Jobs">
+<summary>
+  Looks up a localized string similar to Date de publication.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.DateReception_Messagerie">
+<summary>
+  Looks up a localized string similar to Date de reception du message.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Delete_Certification">
+<summary>
+  Looks up a localized string similar to Suppression d&apos;une certification.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Delete_Commentaire">
+<summary>
+  Looks up a localized string similar to Masquer ce commentaire.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Delete_Competence">
+<summary>
+  Looks up a localized string similar to Supprimer cette compétence.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Delete_CompteBancaire">
+<summary>
+  Looks up a localized string similar to Supprimer ce compte bancaire.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Delete_ConsulterCv">
+<summary>
+  Looks up a localized string similar to Masquer la consultation.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Delete_Cursus">
+<summary>
+  Looks up a localized string similar to Masquer ce cursus.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Delete_Cv">
+<summary>
+  Looks up a localized string similar to Masquer mon CV.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Delete_Divers">
+<summary>
+  Looks up a localized string similar to Masquer ce divers.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Delete_Jobs">
+<summary>
+  Looks up a localized string similar to Masquer ce jobs.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Delete_JobsNotification">
+<summary>
+  Looks up a localized string similar to Masquer cette notification.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Delete_Messagerie">
+<summary>
+  Looks up a localized string similar to Supprimer un message.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Delete_NoterJob">
+<summary>
+  Looks up a localized string similar to Masquer la note.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Delete_Notification">
+<summary>
+  Looks up a localized string similar to Masquer la notification.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Delete_Pays">
+<summary>
+  Looks up a localized string similar to Supprimer un pays.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Delete_PersonneDeReference">
+<summary>
+  Looks up a localized string similar to Masquer cette personne de reference.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Delete_PieceJointe">
+<summary>
+  Looks up a localized string similar to Retirer cette piece jointe.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Delete_PostulerJob">
+<summary>
+  Looks up a localized string similar to Decliner l&apos;offre de jobs.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Delete_Reference">
+<summary>
+  Looks up a localized string similar to Masquer la référence.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Delete_SecteurActivite">
+<summary>
+  Looks up a localized string similar to Supprimer ce secteur d&apos;activité.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Delete_Service">
+<summary>
+  Looks up a localized string similar to Supprimer ce service.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Delete_SousSecteurActivite">
+<summary>
+  Looks up a localized string similar to Supprimer un sous-secteur d&apos;activité.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Delete_Statut">
+<summary>
+  Looks up a localized string similar to Supprimer ce statut.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Delete_TypeCompte">
+<summary>
+  Looks up a localized string similar to Supprimer un type de compte.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Delete_TypeCursus">
+<summary>
+  Looks up a localized string similar to Supprimer ce type de cursus.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Delete_TypeJob">
+<summary>
+  Looks up a localized string similar to Supprimer ce type de job.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Delete_TypeMessagerie">
+<summary>
+  Looks up a localized string similar to Supprimer un type de messagerie.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Delete_UserSousSecteurActivite">
+<summary>
+  Looks up a localized string similar to Supprimer un user ssa.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Description_Certification">
+<summary>
+  Looks up a localized string similar to Description de la certification.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Description_Competence">
+<summary>
+  Looks up a localized string similar to Description de la compétence.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Description_Jobs">
+<summary>
+  Looks up a localized string similar to Consignes du jobs.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Description_PostulerJob">
+<summary>
+  Looks up a localized string similar to Description du freelancer.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Description_Reference">
+<summary>
+  Looks up a localized string similar to Description de la référence.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Description_SecteurActivite">
+<summary>
+  Looks up a localized string similar to Description du secteur d&apos;activité.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Description_Service">
+<summary>
+  Looks up a localized string similar to Description du service.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Description_SousSecteurActivite">
+<summary>
+  Looks up a localized string similar to Description du sous-secteur d&apos;activité.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Details_Certification">
+<summary>
+  Looks up a localized string similar to En savoir plus.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Details_Commentaire">
+<summary>
+  Looks up a localized string similar to En savoir plus.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Details_Competence">
+<summary>
+  Looks up a localized string similar to En savoir plus.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Details_CompteBancaire">
+<summary>
+  Looks up a localized string similar to En savoir plus.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Details_ConsulterCv">
+<summary>
+  Looks up a localized string similar to En savoir plus.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Details_Cursus">
+<summary>
+  Looks up a localized string similar to En savoir plus.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Details_Cv">
+<summary>
+  Looks up a localized string similar to En savoir plus.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Details_Divers">
+<summary>
+  Looks up a localized string similar to En savoir plus.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Details_Jobs">
+<summary>
+  Looks up a localized string similar to En savoir plus.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Details_JobsNotification">
+<summary>
+  Looks up a localized string similar to En savoir plus.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Details_Messagerie">
+<summary>
+  Looks up a localized string similar to En savoir plus.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Details_NoterJob">
+<summary>
+  Looks up a localized string similar to En savoir plus.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Details_Notification">
+<summary>
+  Looks up a localized string similar to En savoir plus.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Details_Pays">
+<summary>
+  Looks up a localized string similar to En savoir plus.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Details_PersonneDeReference">
+<summary>
+  Looks up a localized string similar to En savoir plus.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Details_PieceJointe">
+<summary>
+  Looks up a localized string similar to En savoir plus.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Details_PostulerJob">
+<summary>
+  Looks up a localized string similar to En savoir plus.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Details_Reference">
+<summary>
+  Looks up a localized string similar to En savoir plus.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Details_SecteurActivite">
+<summary>
+  Looks up a localized string similar to En savoir plus.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Details_Service">
+<summary>
+  Looks up a localized string similar to En savoir plus.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Details_SousSecteurActivite">
+<summary>
+  Looks up a localized string similar to En savoir plus.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Details_Statut">
+<summary>
+  Looks up a localized string similar to En savoir plus.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Details_TypeCompte">
+<summary>
+  Looks up a localized string similar to En savoir plus.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Details_TypeCursus">
+<summary>
+  Looks up a localized string similar to En savoir plus.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Details_TypeJob">
+<summary>
+  Looks up a localized string similar to En savoir plus.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Details_TypeMessagerie">
+<summary>
+  Looks up a localized string similar to En savoir plus.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Details_UserSousSecteurActivite">
+<summary>
+  Looks up a localized string similar to En savoir plus sur un user ssa.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Diplome_Cursus">
+<summary>
+  Looks up a localized string similar to Diplome obtenu.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Duree_Jobs">
+<summary>
+  Looks up a localized string similar to Durée du jobs.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.DureeExecution_PostulerJob">
+<summary>
+  Looks up a localized string similar to Durée d&apos;exécution.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.DureeRealisation_Service">
+<summary>
+  Looks up a localized string similar to Durée de réalisation du service.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Edit">
+<summary>
+  Looks up a localized string similar to Modifier.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Edit_Certification">
+<summary>
+  Looks up a localized string similar to Mettre à jour une certification.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Edit_Commentaire">
+<summary>
+  Looks up a localized string similar to Modifier ce commentaire.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Edit_Competence">
+<summary>
+  Looks up a localized string similar to Modifier cette compétence.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Edit_CompteBancaire">
+<summary>
+  Looks up a localized string similar to Editer un compte bancaire.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Edit_ConsulterCv">
+<summary>
+  Looks up a localized string similar to Modifier la consultation.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Edit_Cursus">
+<summary>
+  Looks up a localized string similar to Modifier mon cursus.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Edit_Cv">
+<summary>
+  Looks up a localized string similar to Modifier mon CV.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Edit_Divers">
+<summary>
+  Looks up a localized string similar to Modifier ce divers.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Edit_Jobs">
+<summary>
+  Looks up a localized string similar to Modifier les consignes du jobs.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Edit_JobsNotification">
+<summary>
+  Looks up a localized string similar to Modifier la notification du jobs.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Edit_Messagerie">
+<summary>
+  Looks up a localized string similar to Modifier un message.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Edit_NoterJob">
+<summary>
+  Looks up a localized string similar to Modifier la note.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Edit_Notification">
+<summary>
+  Looks up a localized string similar to Modifier la notification.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Edit_Pays">
+<summary>
+  Looks up a localized string similar to Modifier le pays.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Edit_PersonneDeReference">
+<summary>
+  Looks up a localized string similar to Modifier.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Edit_PieceJointe">
+<summary>
+  Looks up a localized string similar to Modifier la piece jointe.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Edit_PostulerJob">
+<summary>
+  Looks up a localized string similar to Modifier l&apos;offre.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Edit_Reference">
+<summary>
+  Looks up a localized string similar to Modifier la référence.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Edit_SecteurActivite">
+<summary>
+  Looks up a localized string similar to Modifier.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Edit_Service">
+<summary>
+  Looks up a localized string similar to Modifier le service.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Edit_SousSecteurActivite">
+<summary>
+  Looks up a localized string similar to Modifier un sous-secteur d&apos;activité.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Edit_Statut">
+<summary>
+  Looks up a localized string similar to Modifier le statut.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Edit_TypeCompte">
+<summary>
+  Looks up a localized string similar to Modifier ce type de compte.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Edit_TypeCursus">
+<summary>
+  Looks up a localized string similar to Modifier le type de cursus.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Edit_TypeJob">
+<summary>
+  Looks up a localized string similar to Modifier un type de job.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Edit_TypeMessagerie">
+<summary>
+  Looks up a localized string similar to Modifier un type de messagerie.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Edit_UserSousSecteurActivite">
+<summary>
+  Looks up a localized string similar to Modifier un user ssa.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Email">
+<summary>
+  Looks up a localized string similar to Email.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Email_PersonneDeReference">
+<summary>
+  Looks up a localized string similar to Adresse email de la personne de référence.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Employeur">
+<summary>
+  Looks up a localized string similar to Employeur.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Entreprise">
+<summary>
+  Looks up a localized string similar to Entreprise.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.FCFA">
+<summary>
+  Looks up a localized string similar to FCFA.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.FieldRequired">
+<summary>
+  Looks up a localized string similar to Le champ «&lt;span style=&quot;font-style:italic;color:black;&quot;&gt;{0}&lt;/span&gt;» est requis..
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Fonction">
+<summary>
+  Looks up a localized string similar to Fonction.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Format_Email">
+<summary>
+  Looks up a localized string similar to L&apos;adresse email que vous avez fourni n&apos;est pas correcte. Veuillez entrer un adresse au format (adresse@xyz.com).
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.IdentifiantTelephonique_Pays">
+<summary>
+  Looks up a localized string similar to Identifiant téléphonique.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Il_S_Agit">
+<summary>
+  Looks up a localized string similar to il s&apos;agit.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Index_Certification">
+<summary>
+  Looks up a localized string similar to Mes certifications.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Index_Commentaire">
+<summary>
+  Looks up a localized string similar to Mes commentaires.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Index_Competence">
+<summary>
+  Looks up a localized string similar to Mes compétences.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Index_CompteBancaire">
+<summary>
+  Looks up a localized string similar to Mes comptes bancaires.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Index_ConsulterCv">
+<summary>
+  Looks up a localized string similar to Mes consultations.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Index_Cursus">
+<summary>
+  Looks up a localized string similar to Mon cursus.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Index_Cv">
+<summary>
+  Looks up a localized string similar to Mon CV.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Index_Divers">
+<summary>
+  Looks up a localized string similar to Mes divers.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Index_Jobs">
+<summary>
+  Looks up a localized string similar to Mes jobs.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Index_JobsNotification">
+<summary>
+  Looks up a localized string similar to Les notifications sur ce jobs.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Index_Messagerie">
+<summary>
+  Looks up a localized string similar to Mes messages.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Index_NoterJob">
+<summary>
+  Looks up a localized string similar to Mes notes.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Index_Notification">
+<summary>
+  Looks up a localized string similar to Mes notifications.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Index_Pays">
+<summary>
+  Looks up a localized string similar to Les pays.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Index_PersonneDeReference">
+<summary>
+  Looks up a localized string similar to Mes personnes de reférence.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Index_PieceJointe">
+<summary>
+  Looks up a localized string similar to Mes pieces jointes.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Index_PostulerJob">
+<summary>
+  Looks up a localized string similar to Mes jobs postuler.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Index_Reference">
+<summary>
+  Looks up a localized string similar to Mes  reférences.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Index_SecteurActivite">
+<summary>
+  Looks up a localized string similar to Mes secteurs d&apos;activité.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Index_Service">
+<summary>
+  Looks up a localized string similar to Mes services.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Index_SousSecteurActivite">
+<summary>
+  Looks up a localized string similar to Mes sous-secteurs d&apos;activité.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Index_Statut">
+<summary>
+  Looks up a localized string similar to Nos statuts.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Index_TypeCompte">
+<summary>
+  Looks up a localized string similar to Les types de compte.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Index_TypeCursus">
+<summary>
+  Looks up a localized string similar to Les types de cursus.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Index_TypeJob">
+<summary>
+  Looks up a localized string similar to Les types de job.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Index_TypeMessagerie">
+<summary>
+  Looks up a localized string similar to Les types de messagerie.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Index_UserSousSecteurActivite">
+<summary>
+  Looks up a localized string similar to Les users ssa.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Job_Cloture">
+<summary>
+  Looks up a localized string similar to Jobs Cloturé.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.job_Dispo">
+<summary>
+  Looks up a localized string similar to Jobs disponibles.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Jobs">
+<summary>
+  Looks up a localized string similar to Job.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Jobs_Encours">
+<summary>
+  Looks up a localized string similar to Jobs en cours.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Jobs_OuvertPostulation">
+<summary>
+  Looks up a localized string similar to Jobs ouvert aux postulations.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Libelle_Certification">
+<summary>
+  Looks up a localized string similar to Titre de la certification.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Libelle_Competence">
+<summary>
+  Looks up a localized string similar to Titre de la compétence.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Libelle_Cursus">
+<summary>
+  Looks up a localized string similar to Titre du cursus.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Libelle_Divers">
+<summary>
+  Looks up a localized string similar to Titre du divers.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Libelle_SecteurActivite">
+<summary>
+  Looks up a localized string similar to Libellé du secteur d&apos;activité.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Libelle_SousSecteurActivite">
+<summary>
+  Looks up a localized string similar to Libellé du sous-secteur d&apos;activité.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Libelle_Statut">
+<summary>
+  Looks up a localized string similar to Libellé du statut.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Libelle_TypeCompte">
+<summary>
+  Looks up a localized string similar to Libellé du type de compte.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Libelle_TypeCursus">
+<summary>
+  Looks up a localized string similar to Type.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Libelle_TypeJob">
+<summary>
+  Looks up a localized string similar to Libellé du type de job.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.LieuExecution_Jobs">
+<summary>
+  Looks up a localized string similar to Lieu d&apos;exécution du jobs.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Liste_Pays">
+<summary>
+  Looks up a localized string similar to --- Sélectionner votre pays ---.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Liste_Sexe">
+<summary>
+  Looks up a localized string similar to --- Sélectionner ---.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Liste_TypeCompte">
+<summary>
+  Looks up a localized string similar to --- Sélectionner votre type de compte ---.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Login">
+<summary>
+  Looks up a localized string similar to Login.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Mark_exec">
+<summary>
+  Looks up a localized string similar to Marquer exécuté.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Mask">
+<summary>
+  Looks up a localized string similar to Masquer.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Messagerie">
+<summary>
+  Looks up a localized string similar to Messagerie.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Messagerie_PieceJointe">
+<summary>
+  Looks up a localized string similar to Message associé.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.MontantMaximal_Service">
+<summary>
+  Looks up a localized string similar to Montant maximum du service.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.MontantMinimal_Service">
+<summary>
+  Looks up a localized string similar to Montant minimal du service.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.MotDePasse">
+<summary>
+  Looks up a localized string similar to Mot de passe.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Nom">
+<summary>
+  Looks up a localized string similar to Nom.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Nom_Pays">
+<summary>
+  Looks up a localized string similar to Nom du pays.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Nom_PersonneDeReference">
+<summary>
+  Looks up a localized string similar to Nom de la personne de reférence.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.NoteEmployeur_NoterJob">
+<summary>
+  Looks up a localized string similar to Note du client.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.NotePrestataire_NoterJob">
+<summary>
+  Looks up a localized string similar to Note du prestataire.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Noter">
+<summary>
+  Looks up a localized string similar to Noter.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Notification">
+<summary>
+  Looks up a localized string similar to Notification.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.NumeroCompte">
+<summary>
+  Looks up a localized string similar to Numéro de compte.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Objet_Messagerie">
+<summary>
+  Looks up a localized string similar to Objet du message.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Pays">
+<summary>
+  Looks up a localized string similar to Pays.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Periode_Cursus">
+<summary>
+  Looks up a localized string similar to Periode d&apos;obtention.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Photo">
+<summary>
+  Looks up a localized string similar to Photo.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Piece_PieceJointe">
+<summary>
+  Looks up a localized string similar to Piece jointe.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Poste_Cursus">
+<summary>
+  Looks up a localized string similar to Poste occupé.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Prenom">
+<summary>
+  Looks up a localized string similar to Prénom.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Prenom_PersonneDeReference">
+<summary>
+  Looks up a localized string similar to Prénom de la personne de référence.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Prestataire">
+<summary>
+  Looks up a localized string similar to Prestataire.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Profession_PersonneDeReference">
+<summary>
+  Looks up a localized string similar to Profession de la personne de référence.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.PublierPar">
+<summary>
+  Looks up a localized string similar to Publié par.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.RequiredField">
+<summary>
+  Looks up a localized string similar to Ce champ est obligatoire..
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.SecteurActivite">
+<summary>
+  Looks up a localized string similar to Secteur d&apos;activité.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Sexe">
+<summary>
+  Looks up a localized string similar to Sexe.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Sexe_PersonneDeReference">
+<summary>
+  Looks up a localized string similar to Sexe de la personne de référence.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.SiteWeb">
+<summary>
+  Looks up a localized string similar to Site web.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.SousSecteurActivite">
+<summary>
+  Looks up a localized string similar to Sous secteur d&apos;activité.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Statut">
+<summary>
+  Looks up a localized string similar to Statut.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.StatutExistant">
+<summary>
+  Looks up a localized string similar to Statut existant.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.StringLength">
+<summary>
+  Looks up a localized string similar to Le champ «&lt;span style=&quot;font-style:italic;color:black;&quot;&gt;{0}&lt;/span&gt;» ne doit pas excéder 500 caractères..
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Structures_Cursus">
+<summary>
+  Looks up a localized string similar to Etablissement/Entreprise.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Telephone">
+<summary>
+  Looks up a localized string similar to Téléphone.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Telephone_PersonneDeReference">
+<summary>
+  Looks up a localized string similar to Téléphone de la personne de référence.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Titre_Cursus">
+<summary>
+  Looks up a localized string similar to Titre du cursus.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Titre_Cv">
+<summary>
+  Looks up a localized string similar to Titre du CV.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Titre_Divers">
+<summary>
+  Looks up a localized string similar to Titre du divers.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Titre_Jobs">
+<summary>
+  Looks up a localized string similar to Titre du jobs.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Titre_Notification">
+<summary>
+  Looks up a localized string similar to Titre de la notification.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Titre_Reference">
+<summary>
+  Looks up a localized string similar to Titre de la référence.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Titre_Service">
+<summary>
+  Looks up a localized string similar to Titre du service.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Titre_TypeMessagerie">
+<summary>
+  Looks up a localized string similar to Titre de la messagerie.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.Type_TypeCursus">
+<summary>
+  Looks up a localized string similar to Type de cursus.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.TypeCompte">
+<summary>
+  Looks up a localized string similar to Type de compte.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.TypeCursus">
+<summary>
+  Looks up a localized string similar to Type de cursus.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.TypeJob">
+<summary>
+  Looks up a localized string similar to Type de job.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.User">
+<summary>
+  Looks up a localized string similar to Internaute.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.User_Attribuer">
+<summary>
+  Looks up a localized string similar to Prestataire.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.User_Destinataire">
+<summary>
+  Looks up a localized string similar to Destinataire.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.User_Employeur">
+<summary>
+  Looks up a localized string similar to Client.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.User_Expediteur">
+<summary>
+  Looks up a localized string similar to Expéditeur.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.User_Inscrire">
+<summary>
+  Looks up a localized string similar to Inscription gratuite sur LifeWork.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.User_MesProjets">
+<summary>
+  Looks up a localized string similar to Mes Projets.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.User_Prestataire">
+<summary>
+  Looks up a localized string similar to Prestataire.
+</summary>
+</member>
+<member name="P:LifeWork.My.Resources.Resource.User_Publier">
+<summary>
+  Looks up a localized string similar to Employeur/client.
+</summary>
+</member>
+<member name="M:LifeWork.AccountController.GetUserConnected">
+ <summary>
+ DEBUT FONCTION QUI RETOURNE L'UTILISATEUR CONNECTE ACTUELLEMENT
+ </summary>
+ <returns>userConnected</returns>
+ <remarks></remarks>
+</member>
+<member name="M:LifeWork.AccountController.GetTypeUserConnected">
+ <summary>
+ DEBUT FONCTION QUI RETOURNE LE TYPE DE L'UTILISATEUR CONNECTE ACTUELLEMENT
+ </summary>
+ <returns>TypeuserConnected</returns>
+</member>
+<member name="M:LifeWork.AccountController.ShowImage(System.String)">
+ <summary>
+ DEBUT FONCTION TRAITEMENT IMAGE
+ </summary>
+ <param name="Id"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:LifeWork.AccountController.SendConfirmEmail(System.String,System.String,System.String)">
+ <summary>
+ FONCTION DE MAIL POUR CONFIRMATION
+ </summary>
+ <param name="pseudo">Pseudo</param>
+ <param name="recepient">Recepteur</param>
+ <param name="subject">Objet</param>
+ <returns>Booleen</returns>
+ <remarks></remarks>
+</member>
+<member name="M:LifeWork.AccountController.CompleterInfos(System.String)">
+ <summary>
+ Completer Infos Get
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:LifeWork.AccountController.CompleterInfos(LifeWork.CompleterInfosViewModel)">
+ <summary>
+ FONCTION COMPLETER INFOS POST
+ </summary>
+ <returns> something</returns>
+</member>
+<member name="M:LifeWork.LifeWork.CertificationController.GetUserConnected">
+ <summary>
+ DEBUT FONCTION QUI RETOURNE L'UTILISATEUR CONNECTE ACTUELLEMENT
+ </summary>
+ <returns>userConnected</returns>
+ <remarks></remarks>
+</member>
+<member name="M:LifeWork.LifeWork.CompetenceController.GetUserConnected">
+ <summary>
+ DEBUT FONCTION QUI RETOURNE L'UTILISATEUR CONNECTE ACTUELLEMENT
+ </summary>
+ <returns>userConnected</returns>
+ <remarks></remarks>
+</member>
+<member name="M:LifeWork.LifeWork.DashboardController.GetUserConnected">
+ <summary>
+ DEBUT FONCTION QUI RETOURNE L'UTILISATEUR CONNECTE ACTUELLEMENT
+ </summary>
+ <returns>userConnected</returns>
+ <remarks></remarks>
+</member>
+<member name="M:LifeWork.LifeWork.JobsController.ShowImage(System.String)">
+ <summary>
+ DEBUT FONCTION TRAITEMENT IMAGE
+ </summary>
+ <param name="Id"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:LifeWork.LifeWork.JobsController.jobsDispo">
+ <summary>
+ Jobs disponible pour freelancer
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:LifeWork.LifeWork.JobsController.JobsClotureEmployeur">
+ <summary>
+ affiche les jobs terminé pour l'employeur
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:LifeWork.LifeWork.JobsController.JobsCloturePrestataire">
+ <summary>
+ affiche les jobs terminé pour le prestataire
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:LifeWork.LifeWork.JobsController.JobEnCours">
+ <summary>
+ FONCTION QUI RETOURNE LES JOBS DE L'UTILISATEUR QUI SONT EN COURS
+ </summary>
+ <returns>retourne les jobs de l'utilisateur en ligne</returns>
+</member>
+<member name="M:LifeWork.LifeWork.JobsController.JobEnCoursPrestataire">
+ <summary>
+ retourne la liste des jobs en cours chez le prestataire
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:LifeWork.LifeWork.JobsController.JobOuvertPostulation">
+ <summary>
+ retourne la liste des jobs posté auxquel on peux encore postuler
+ </summary>
+ <returns>retourne les jobs qui n'ont pas encore été attribué</returns>
+</member>
+<member name="M:LifeWork.LifeWork.JobsController.GetUserConnected">
+ <summary>
+ DEBUT FONCTION QUI RETOURNE L'UTILISATEUR CONNECTE ACTUELLEMENT
+ </summary>
+ <returns>userConnected</returns>
+ <remarks></remarks>
+</member>
+<member name="M:LifeWork.LifeWork.JobsController.GetInfosEmployeurByJobsId(System.Nullable{System.Int64})">
+ <summary>
+ FONCTION QUI RETOURNE LES INFORMATION DE L'EMPLOYEUR EN FONCTION DU JOBID
+ </summary>
+ <param name="id"></param>
+ <returns>Employeur</returns>
+</member>
+<member name="M:LifeWork.LifeWork.JobsController.MarquerExecuteEmployeur(System.Nullable{System.Int64})">
+ <summary>
+ pour cloturer un job
+ </summary>
+ <param name="idJob"></param>
+ <returns></returns>
+</member>
+<member name="M:LifeWork.LifeWork.JobsController.PageAttribuer(System.String,System.Nullable{System.Int64})">
+ <summary>
+ Fonction qui va renvoyer vers la page d'attribution
+ </summary>
+ <param name="id"></param>
+ <returns></returns>
+</member>
+<member name="M:LifeWork.LifeWork.NoterJobController.NoterPrestataire">
+ <summary>
+ Function pour noter le prestataire
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:LifeWork.LifeWork.PostulerJobController.GetUserConnected">
+ <summary>
+ DEBUT FONCTION QUI RETOURNE L'UTILISATEUR CONNECTE ACTUELLEMENT
+ </summary>
+ <returns>userConnected</returns>
+ <remarks></remarks>
+</member>
+<member name="M:LifeWork.LifeWork.PostulerJobController.vuePostulerA1Job(System.Int64)">
+ <summary>
+ Fonction pour le modale qui affiche la vue
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:LifeWork.ModuleUser.GetUserCivility(System.String)">
+ <summary>
+ FONCTION QUI RETOURNE {M. ou Mme} SELON LE SEXE DE L'UTILISATEUR
+ </summary>
+ <returns>userConnected</returns>
+ <remarks></remarks>
+</member>
+<member name="M:LifeWork.ModuleUser.SendEmail(System.String,System.String,System.String)">
+ <summary>
+ FONCTION QUI ENVOI UN MAIL A L'UTILISATEUR
+ </summary>
+ <param name="Recepient">Adresse email du recepteur</param>
+ <param name="subject">Object du mail</param>
+ <param name="body">Contenu du mail</param>
+ <returns>Booleen</returns>
+ <remarks></remarks>
+</member>
+</members>
+</doc>

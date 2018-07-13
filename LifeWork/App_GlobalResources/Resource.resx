@@ -1,0 +1,987 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Abreviation_Pays" xml:space="preserve">
+    <value>Abréviation du pays</value>
+  </data>
+  <data name="Adresse_Reference" xml:space="preserve">
+    <value>Adresse de la référence</value>
+  </data>
+  <data name="Annee_Reference" xml:space="preserve">
+    <value>Année de la référence</value>
+  </data>
+  <data name="A_Accent" xml:space="preserve">
+    <value>à</value>
+  </data>
+  <data name="Btn_Ajouter" xml:space="preserve">
+    <value>Ajouter</value>
+  </data>
+  <data name="Btn_Annuler" xml:space="preserve">
+    <value>Annuler</value>
+  </data>
+  <data name="Btn_Enregistrer" xml:space="preserve">
+    <value>Enregistrer</value>
+  </data>
+  <data name="Btn_Nouveau" xml:space="preserve">
+    <value>Nouveau</value>
+  </data>
+  <data name="Btn_Precedent" xml:space="preserve">
+    <value>Precédent</value>
+  </data>
+  <data name="Btn_Retour" xml:space="preserve">
+    <value>Retour</value>
+  </data>
+  <data name="Btn_Supprimer" xml:space="preserve">
+    <value>Supprimer</value>
+  </data>
+  <data name="BudgetAttribution_Jobs" xml:space="preserve">
+    <value>Budget d'attribution</value>
+  </data>
+  <data name="BudgetExige_PostulerJob" xml:space="preserve">
+    <value>Budget requis</value>
+  </data>
+  <data name="BudgetMaximal_Jobs" xml:space="preserve">
+    <value>Budget maximal</value>
+  </data>
+  <data name="BudgetMinimal_Jobs" xml:space="preserve">
+    <value>Budget minimal</value>
+  </data>
+  <data name="CahierDeCharge_Jobs" xml:space="preserve">
+    <value>Cahier de charges du jobs</value>
+  </data>
+  <data name="Cni" xml:space="preserve">
+    <value>CNI</value>
+  </data>
+  <data name="Code_CompteBanquaire" xml:space="preserve">
+    <value>Code du compte bancaire</value>
+  </data>
+  <data name="Code_Jobs" xml:space="preserve">
+    <value>Code du jobs</value>
+  </data>
+  <data name="Code_SousSecteurActivite" xml:space="preserve">
+    <value>Code du sous-secteur d'activité</value>
+  </data>
+  <data name="Commentaire_Divers" xml:space="preserve">
+    <value>Commentaire sur ce divers</value>
+  </data>
+  <data name="ConfirmDelete" xml:space="preserve">
+    <value>Etes-vous sûr de vouloir supprimer cet enregistrement ?</value>
+  </data>
+  <data name="Contact_Employeur" xml:space="preserve">
+    <value>Contacter l'employeur</value>
+  </data>
+  <data name="Contenu_Commentaire" xml:space="preserve">
+    <value>Votre commentaire</value>
+  </data>
+  <data name="Contenu_Messagerie" xml:space="preserve">
+    <value>Contenu du message</value>
+  </data>
+  <data name="Contenu_Notification" xml:space="preserve">
+    <value>Contenu de la notification</value>
+  </data>
+  <data name="Create_Certification" xml:space="preserve">
+    <value>Ajouter une nouvelle certification</value>
+  </data>
+  <data name="Create_Commentaire" xml:space="preserve">
+    <value>Ajouter votre commentaire</value>
+  </data>
+  <data name="Create_Competence" xml:space="preserve">
+    <value>Ajouter une nouvelle compétence</value>
+  </data>
+  <data name="Create_CompteBancaire" xml:space="preserve">
+    <value>Ajouter un compte bancaire</value>
+  </data>
+  <data name="Create_ConsulterCv" xml:space="preserve">
+    <value>Ajouter</value>
+  </data>
+  <data name="Create_Cursus" xml:space="preserve">
+    <value>Ajouter un nouveau cursus</value>
+  </data>
+  <data name="Create_Cv" xml:space="preserve">
+    <value>Creer un CV</value>
+  </data>
+  <data name="Create_Divers" xml:space="preserve">
+    <value>Ajouter un nouveau divers</value>
+  </data>
+  <data name="Create_Jobs" xml:space="preserve">
+    <value>Publier un nouveau jobs</value>
+  </data>
+  <data name="Create_JobsNotification" xml:space="preserve">
+    <value>Ajouter une notification sur un jobs</value>
+  </data>
+  <data name="Create_Messagerie" xml:space="preserve">
+    <value>Envoyer un message</value>
+  </data>
+  <data name="Create_NoterJob" xml:space="preserve">
+    <value>Noter une prestation/service</value>
+  </data>
+  <data name="Create_Notification" xml:space="preserve">
+    <value>Nouvelle notification</value>
+  </data>
+  <data name="Create_Pays" xml:space="preserve">
+    <value>Ajouter un nouveau pays</value>
+  </data>
+  <data name="Create_PersonneDeReference" xml:space="preserve">
+    <value>Ajouter une personne de reférence</value>
+  </data>
+  <data name="Create_PieceJointe" xml:space="preserve">
+    <value>Ajouter une piece jointe</value>
+  </data>
+  <data name="Create_PostulerJob" xml:space="preserve">
+    <value>Postuler a un jobs</value>
+  </data>
+  <data name="Create_Reference" xml:space="preserve">
+    <value>Ajouter une nouvelle reférence</value>
+  </data>
+  <data name="Create_SecteurActivite" xml:space="preserve">
+    <value>Nouveau secteur d'activité</value>
+  </data>
+  <data name="Create_Service" xml:space="preserve">
+    <value>Ajouter un service</value>
+  </data>
+  <data name="Create_SousSecteurActivite" xml:space="preserve">
+    <value>AJouter un sous-secteur d'activité</value>
+  </data>
+  <data name="Create_Statut" xml:space="preserve">
+    <value>Ajouter un nouveau statut</value>
+  </data>
+  <data name="Create_TypeCompte" xml:space="preserve">
+    <value>Ajouter un type de compte</value>
+  </data>
+  <data name="Create_TypeCursus" xml:space="preserve">
+    <value>Ajouter un type de cursus</value>
+  </data>
+  <data name="Create_TypeJob" xml:space="preserve">
+    <value>Creer un type de job</value>
+  </data>
+  <data name="Create_TypeMessagerie" xml:space="preserve">
+    <value>Ajouter un type de messagerie</value>
+  </data>
+  <data name="Create_UserSousSecteurActivite" xml:space="preserve">
+    <value>Ajouter un user ssa</value>
+  </data>
+  <data name="Cv" xml:space="preserve">
+    <value>Curriculum vitea</value>
+  </data>
+  <data name="DataType_Date" xml:space="preserve">
+    <value>Le champ «&lt;span style="font-style:italic;color:black;"&gt;{0}&lt;/span&gt;» doit être une date.</value>
+  </data>
+  <data name="DataType_Date_Content" xml:space="preserve">
+    <value>Le champ «&lt;span style="font-style:italic;color:black;"&gt;{0}&lt;/span&gt;» doit contenir une date.</value>
+  </data>
+  <data name="DataType_Decimal" xml:space="preserve">
+    <value>Le champ «&lt;span style="font-style:italic;color:black;"&gt;{0}&lt;/span&gt;» doit être un nombre à virgule.</value>
+  </data>
+  <data name="DataType_Double" xml:space="preserve">
+    <value>Le champ doit contenir des chiffires uniquement.</value>
+  </data>
+  <data name="DataType_Number" xml:space="preserve">
+    <value>Le champ «&lt;span style="font-style:italic;color:black;"&gt;{0}&lt;/span&gt;» doit contenir une date.</value>
+  </data>
+  <data name="DataType_String" xml:space="preserve">
+    <value>Le champ «&lt;span style="font-style:italic;color:black;"&gt;{0}&lt;/span&gt;» doit être une chaine.</value>
+  </data>
+  <data name="Datatype_String_Content" xml:space="preserve">
+    <value>Le champ doit contenir une chaine.</value>
+  </data>
+  <data name="DateAttribution_Jobs" xml:space="preserve">
+    <value>Date d'attribution</value>
+  </data>
+  <data name="DateCloture_Jobs" xml:space="preserve">
+    <value>Date de fermeture</value>
+  </data>
+  <data name="DateConsulter_ConsulterCv" xml:space="preserve">
+    <value>Date de consultation</value>
+  </data>
+  <data name="DateCreation" xml:space="preserve">
+    <value>Date de création</value>
+  </data>
+  <data name="DateEnvoi_Messagerie" xml:space="preserve">
+    <value>Date d'envoi du message</value>
+  </data>
+  <data name="DateEnvoi_Notification" xml:space="preserve">
+    <value>Date d'envoi de la notification</value>
+  </data>
+  <data name="DateEnvoi_PostulerJob" xml:space="preserve">
+    <value>Date d'envoi</value>
+  </data>
+  <data name="DateNaissance" xml:space="preserve">
+    <value>Date de naissance</value>
+  </data>
+  <data name="DateObtention_Certification" xml:space="preserve">
+    <value>Date d'obtention de la certification</value>
+  </data>
+  <data name="DatePeremption_CompteBancaire" xml:space="preserve">
+    <value>Date de péremption</value>
+  </data>
+  <data name="DatePostulation_Service" xml:space="preserve">
+    <value>Date de postulation du service</value>
+  </data>
+  <data name="DatePrevueLivraison_Jobs" xml:space="preserve">
+    <value>Date prévue d'achèvement</value>
+  </data>
+  <data name="DatePublication_Jobs" xml:space="preserve">
+    <value>Date de publication</value>
+  </data>
+  <data name="DateReception_Messagerie" xml:space="preserve">
+    <value>Date de reception du message</value>
+  </data>
+  <data name="Delete_Certification" xml:space="preserve">
+    <value>Suppression d'une certification</value>
+  </data>
+  <data name="Delete_Commentaire" xml:space="preserve">
+    <value>Masquer ce commentaire</value>
+  </data>
+  <data name="Delete_Competence" xml:space="preserve">
+    <value>Supprimer cette compétence</value>
+  </data>
+  <data name="Delete_CompteBancaire" xml:space="preserve">
+    <value>Supprimer ce compte bancaire</value>
+  </data>
+  <data name="Delete_ConsulterCv" xml:space="preserve">
+    <value>Masquer la consultation</value>
+  </data>
+  <data name="Delete_Cursus" xml:space="preserve">
+    <value>Masquer ce cursus</value>
+  </data>
+  <data name="Delete_Cv" xml:space="preserve">
+    <value>Masquer mon CV</value>
+  </data>
+  <data name="Delete_Divers" xml:space="preserve">
+    <value>Masquer ce divers</value>
+  </data>
+  <data name="Delete_Jobs" xml:space="preserve">
+    <value>Masquer ce jobs</value>
+  </data>
+  <data name="Delete_JobsNotification" xml:space="preserve">
+    <value>Masquer cette notification</value>
+  </data>
+  <data name="Delete_Messagerie" xml:space="preserve">
+    <value>Supprimer un message</value>
+  </data>
+  <data name="Delete_NoterJob" xml:space="preserve">
+    <value>Masquer la note</value>
+  </data>
+  <data name="Delete_Notification" xml:space="preserve">
+    <value>Masquer la notification</value>
+  </data>
+  <data name="Delete_Pays" xml:space="preserve">
+    <value>Supprimer un pays</value>
+  </data>
+  <data name="Delete_PersonneDeReference" xml:space="preserve">
+    <value>Masquer cette personne de reference</value>
+  </data>
+  <data name="Delete_PieceJointe" xml:space="preserve">
+    <value>Retirer cette piece jointe</value>
+  </data>
+  <data name="Delete_PostulerJob" xml:space="preserve">
+    <value>Decliner l'offre de jobs</value>
+  </data>
+  <data name="Delete_Reference" xml:space="preserve">
+    <value>Masquer la référence</value>
+  </data>
+  <data name="Delete_SecteurActivite" xml:space="preserve">
+    <value>Supprimer ce secteur d'activité</value>
+  </data>
+  <data name="Delete_Service" xml:space="preserve">
+    <value>Supprimer ce service</value>
+  </data>
+  <data name="Delete_SousSecteurActivite" xml:space="preserve">
+    <value>Supprimer un sous-secteur d'activité</value>
+  </data>
+  <data name="Delete_Statut" xml:space="preserve">
+    <value>Supprimer ce statut</value>
+  </data>
+  <data name="Delete_TypeCompte" xml:space="preserve">
+    <value>Supprimer un type de compte</value>
+  </data>
+  <data name="Delete_TypeCursus" xml:space="preserve">
+    <value>Supprimer ce type de cursus</value>
+  </data>
+  <data name="Delete_TypeJob" xml:space="preserve">
+    <value>Supprimer ce type de job</value>
+  </data>
+  <data name="Delete_TypeMessagerie" xml:space="preserve">
+    <value>Supprimer un type de messagerie</value>
+  </data>
+  <data name="Delete_UserSousSecteurActivite" xml:space="preserve">
+    <value>Supprimer un user ssa</value>
+  </data>
+  <data name="Description_Certification" xml:space="preserve">
+    <value>Description de la certification</value>
+  </data>
+  <data name="Description_Competence" xml:space="preserve">
+    <value>Description de la compétence</value>
+  </data>
+  <data name="Description_Jobs" xml:space="preserve">
+    <value>Consignes du jobs</value>
+  </data>
+  <data name="Description_PostulerJob" xml:space="preserve">
+    <value>Description du freelancer</value>
+  </data>
+  <data name="Description_Reference" xml:space="preserve">
+    <value>Description de la référence</value>
+  </data>
+  <data name="Description_SecteurActivite" xml:space="preserve">
+    <value>Description du secteur d'activité</value>
+  </data>
+  <data name="Description_Service" xml:space="preserve">
+    <value>Description du service</value>
+  </data>
+  <data name="Description_SousSecteurActivite" xml:space="preserve">
+    <value>Description du sous-secteur d'activité</value>
+  </data>
+  <data name="Details_Certification" xml:space="preserve">
+    <value>En savoir plus</value>
+  </data>
+  <data name="Details_Commentaire" xml:space="preserve">
+    <value>En savoir plus</value>
+  </data>
+  <data name="Details_Competence" xml:space="preserve">
+    <value>En savoir plus</value>
+  </data>
+  <data name="Details_CompteBancaire" xml:space="preserve">
+    <value>En savoir plus</value>
+  </data>
+  <data name="Details_ConsulterCv" xml:space="preserve">
+    <value>En savoir plus</value>
+  </data>
+  <data name="Details_Cursus" xml:space="preserve">
+    <value>En savoir plus</value>
+  </data>
+  <data name="Details_Cv" xml:space="preserve">
+    <value>En savoir plus</value>
+  </data>
+  <data name="Details_Divers" xml:space="preserve">
+    <value>En savoir plus</value>
+  </data>
+  <data name="Details_Jobs" xml:space="preserve">
+    <value>En savoir plus</value>
+  </data>
+  <data name="Details_JobsNotification" xml:space="preserve">
+    <value>En savoir plus</value>
+  </data>
+  <data name="Details_Messagerie" xml:space="preserve">
+    <value>En savoir plus</value>
+  </data>
+  <data name="Details_NoterJob" xml:space="preserve">
+    <value>En savoir plus</value>
+  </data>
+  <data name="Details_Notification" xml:space="preserve">
+    <value>En savoir plus</value>
+  </data>
+  <data name="Details_Pays" xml:space="preserve">
+    <value>En savoir plus</value>
+  </data>
+  <data name="Details_PersonneDeReference" xml:space="preserve">
+    <value>En savoir plus</value>
+  </data>
+  <data name="Details_PieceJointe" xml:space="preserve">
+    <value>En savoir plus</value>
+  </data>
+  <data name="Details_PostulerJob" xml:space="preserve">
+    <value>En savoir plus</value>
+  </data>
+  <data name="Details_Reference" xml:space="preserve">
+    <value>En savoir plus</value>
+  </data>
+  <data name="Details_SecteurActivite" xml:space="preserve">
+    <value>En savoir plus</value>
+  </data>
+  <data name="Details_Service" xml:space="preserve">
+    <value>En savoir plus</value>
+  </data>
+  <data name="Details_SousSecteurActivite" xml:space="preserve">
+    <value>En savoir plus</value>
+  </data>
+  <data name="Details_Statut" xml:space="preserve">
+    <value>En savoir plus</value>
+  </data>
+  <data name="Details_TypeCompte" xml:space="preserve">
+    <value>En savoir plus</value>
+  </data>
+  <data name="Details_TypeCursus" xml:space="preserve">
+    <value>En savoir plus</value>
+  </data>
+  <data name="Details_TypeJob" xml:space="preserve">
+    <value>En savoir plus</value>
+  </data>
+  <data name="Details_TypeMessagerie" xml:space="preserve">
+    <value>En savoir plus</value>
+  </data>
+  <data name="Details_UserSousSecteurActivite" xml:space="preserve">
+    <value>En savoir plus sur un user ssa</value>
+  </data>
+  <data name="Diplome_Cursus" xml:space="preserve">
+    <value>Diplome obtenu</value>
+  </data>
+  <data name="DureeExecution_PostulerJob" xml:space="preserve">
+    <value>Durée d'exécution</value>
+  </data>
+  <data name="DureeRealisation_Service" xml:space="preserve">
+    <value>Durée de réalisation du service</value>
+  </data>
+  <data name="Duree_Jobs" xml:space="preserve">
+    <value>Durée du jobs</value>
+  </data>
+  <data name="D_Un" xml:space="preserve">
+    <value>d'un</value>
+  </data>
+  <data name="Edit_Certification" xml:space="preserve">
+    <value>Mettre à jour une certification</value>
+  </data>
+  <data name="Edit_Commentaire" xml:space="preserve">
+    <value>Modifier ce commentaire</value>
+  </data>
+  <data name="Edit_Competence" xml:space="preserve">
+    <value>Modifier cette compétence</value>
+  </data>
+  <data name="Edit_CompteBancaire" xml:space="preserve">
+    <value>Editer un compte bancaire</value>
+  </data>
+  <data name="Edit_ConsulterCv" xml:space="preserve">
+    <value>Modifier la consultation</value>
+  </data>
+  <data name="Edit_Cursus" xml:space="preserve">
+    <value>Modifier mon cursus</value>
+  </data>
+  <data name="Edit_Cv" xml:space="preserve">
+    <value>Modifier mon CV</value>
+  </data>
+  <data name="Edit_Divers" xml:space="preserve">
+    <value>Modifier ce divers</value>
+  </data>
+  <data name="Edit_Jobs" xml:space="preserve">
+    <value>Modifier les consignes du jobs</value>
+  </data>
+  <data name="Edit_JobsNotification" xml:space="preserve">
+    <value>Modifier la notification du jobs</value>
+  </data>
+  <data name="Edit_Messagerie" xml:space="preserve">
+    <value>Modifier un message</value>
+  </data>
+  <data name="Edit_NoterJob" xml:space="preserve">
+    <value>Modifier la note</value>
+  </data>
+  <data name="Edit_Notification" xml:space="preserve">
+    <value>Modifier la notification</value>
+  </data>
+  <data name="Edit_Pays" xml:space="preserve">
+    <value>Modifier le pays</value>
+  </data>
+  <data name="Edit_PersonneDeReference" xml:space="preserve">
+    <value>Modifier</value>
+  </data>
+  <data name="Edit_PieceJointe" xml:space="preserve">
+    <value>Modifier la piece jointe</value>
+  </data>
+  <data name="Edit_PostulerJob" xml:space="preserve">
+    <value>Modifier l'offre</value>
+  </data>
+  <data name="Edit_Reference" xml:space="preserve">
+    <value>Modifier la référence</value>
+  </data>
+  <data name="Edit_SecteurActivite" xml:space="preserve">
+    <value>Modifier</value>
+  </data>
+  <data name="Edit_Service" xml:space="preserve">
+    <value>Modifier le service</value>
+  </data>
+  <data name="Edit_SousSecteurActivite" xml:space="preserve">
+    <value>Modifier un sous-secteur d'activité</value>
+  </data>
+  <data name="Edit_Statut" xml:space="preserve">
+    <value>Modifier le statut</value>
+  </data>
+  <data name="Edit_TypeCompte" xml:space="preserve">
+    <value>Modifier ce type de compte</value>
+  </data>
+  <data name="Edit_TypeCursus" xml:space="preserve">
+    <value>Modifier le type de cursus</value>
+  </data>
+  <data name="Edit_TypeJob" xml:space="preserve">
+    <value>Modifier un type de job</value>
+  </data>
+  <data name="Edit_TypeMessagerie" xml:space="preserve">
+    <value>Modifier un type de messagerie</value>
+  </data>
+  <data name="Edit_UserSousSecteurActivite" xml:space="preserve">
+    <value>Modifier un user ssa</value>
+  </data>
+  <data name="Email" xml:space="preserve">
+    <value>Email</value>
+  </data>
+  <data name="Email_PersonneDeReference" xml:space="preserve">
+    <value>Adresse email de la personne de référence</value>
+  </data>
+  <data name="Employeur" xml:space="preserve">
+    <value>Employeur</value>
+  </data>
+  <data name="Entreprise" xml:space="preserve">
+    <value>Entreprise</value>
+  </data>
+  <data name="FCFA" xml:space="preserve">
+    <value>FCFA</value>
+  </data>
+  <data name="FieldRequired" xml:space="preserve">
+    <value>Le champ «&lt;span style="font-style:italic;color:black;"&gt;{0}&lt;/span&gt;» est requis.</value>
+  </data>
+  <data name="Fonction" xml:space="preserve">
+    <value>Fonction</value>
+  </data>
+  <data name="Format_Email" xml:space="preserve">
+    <value>L'adresse email que vous avez fourni n'est pas correcte. Veuillez entrer un adresse au format (adresse@xyz.com)</value>
+  </data>
+  <data name="IdentifiantTelephonique_Pays" xml:space="preserve">
+    <value>Identifiant téléphonique</value>
+  </data>
+  <data name="Il_S_Agit" xml:space="preserve">
+    <value>il s'agit</value>
+  </data>
+  <data name="Index_Certification" xml:space="preserve">
+    <value>Mes certifications</value>
+  </data>
+  <data name="Index_Commentaire" xml:space="preserve">
+    <value>Mes commentaires</value>
+  </data>
+  <data name="Index_Competence" xml:space="preserve">
+    <value>Mes compétences</value>
+  </data>
+  <data name="Index_CompteBancaire" xml:space="preserve">
+    <value>Mes comptes bancaires</value>
+  </data>
+  <data name="Index_ConsulterCv" xml:space="preserve">
+    <value>Mes consultations</value>
+  </data>
+  <data name="Index_Cursus" xml:space="preserve">
+    <value>Mon cursus</value>
+  </data>
+  <data name="Index_Cv" xml:space="preserve">
+    <value>Mon CV</value>
+  </data>
+  <data name="Index_Divers" xml:space="preserve">
+    <value>Mes divers</value>
+  </data>
+  <data name="Index_Jobs" xml:space="preserve">
+    <value>Mes jobs</value>
+  </data>
+  <data name="Index_JobsNotification" xml:space="preserve">
+    <value>Les notifications sur ce jobs</value>
+  </data>
+  <data name="Index_Messagerie" xml:space="preserve">
+    <value>Mes messages</value>
+  </data>
+  <data name="Index_NoterJob" xml:space="preserve">
+    <value>Mes notes</value>
+  </data>
+  <data name="Index_Notification" xml:space="preserve">
+    <value>Mes notifications</value>
+  </data>
+  <data name="Index_Pays" xml:space="preserve">
+    <value>Les pays</value>
+  </data>
+  <data name="Index_PersonneDeReference" xml:space="preserve">
+    <value>Mes personnes de reférence</value>
+  </data>
+  <data name="Index_PieceJointe" xml:space="preserve">
+    <value>Mes pieces jointes</value>
+  </data>
+  <data name="Index_PostulerJob" xml:space="preserve">
+    <value>Mes jobs postuler</value>
+  </data>
+  <data name="Index_Reference" xml:space="preserve">
+    <value>Mes  reférences</value>
+  </data>
+  <data name="Index_SecteurActivite" xml:space="preserve">
+    <value>Mes secteurs d'activité</value>
+  </data>
+  <data name="Index_Service" xml:space="preserve">
+    <value>Mes services</value>
+  </data>
+  <data name="Index_SousSecteurActivite" xml:space="preserve">
+    <value>Mes sous-secteurs d'activité</value>
+  </data>
+  <data name="Index_Statut" xml:space="preserve">
+    <value>Nos statuts</value>
+  </data>
+  <data name="Index_TypeCompte" xml:space="preserve">
+    <value>Les types de compte</value>
+  </data>
+  <data name="Index_TypeCursus" xml:space="preserve">
+    <value>Les types de cursus</value>
+  </data>
+  <data name="Index_TypeJob" xml:space="preserve">
+    <value>Les types de job</value>
+  </data>
+  <data name="Index_TypeMessagerie" xml:space="preserve">
+    <value>Les types de messagerie</value>
+  </data>
+  <data name="Index_UserSousSecteurActivite" xml:space="preserve">
+    <value>Les users ssa</value>
+  </data>
+  <data name="Jobs" xml:space="preserve">
+    <value>Job</value>
+  </data>
+  <data name="Jobs_Encours" xml:space="preserve">
+    <value>Jobs en cours</value>
+  </data>
+  <data name="Libelle_Certification" xml:space="preserve">
+    <value>Titre de la certification</value>
+  </data>
+  <data name="Libelle_Competence" xml:space="preserve">
+    <value>Titre de la compétence</value>
+  </data>
+  <data name="Libelle_Cursus" xml:space="preserve">
+    <value>Titre du cursus</value>
+  </data>
+  <data name="Libelle_Divers" xml:space="preserve">
+    <value>Titre du divers</value>
+  </data>
+  <data name="Libelle_SecteurActivite" xml:space="preserve">
+    <value>Libellé du secteur d'activité</value>
+  </data>
+  <data name="Libelle_SousSecteurActivite" xml:space="preserve">
+    <value>Libellé du sous-secteur d'activité</value>
+  </data>
+  <data name="Libelle_Statut" xml:space="preserve">
+    <value>Libellé du statut</value>
+  </data>
+  <data name="Libelle_TypeCompte" xml:space="preserve">
+    <value>Libellé du type de compte</value>
+  </data>
+  <data name="Libelle_TypeCursus" xml:space="preserve">
+    <value>Type</value>
+  </data>
+  <data name="Libelle_TypeJob" xml:space="preserve">
+    <value>Libellé du type de job</value>
+  </data>
+  <data name="LieuExecution_Jobs" xml:space="preserve">
+    <value>Lieu d'exécution du jobs</value>
+  </data>
+  <data name="Liste_Pays" xml:space="preserve">
+    <value>--- Sélectionner votre pays ---</value>
+  </data>
+  <data name="Liste_Sexe" xml:space="preserve">
+    <value>--- Sélectionner ---</value>
+  </data>
+  <data name="Liste_TypeCompte" xml:space="preserve">
+    <value>--- Sélectionner votre type de compte ---</value>
+  </data>
+  <data name="Messagerie_PieceJointe" xml:space="preserve">
+    <value>Message associé</value>
+  </data>
+  <data name="MontantMaximal_Service" xml:space="preserve">
+    <value>Montant maximum du service</value>
+  </data>
+  <data name="MontantMinimal_Service" xml:space="preserve">
+    <value>Montant minimal du service</value>
+  </data>
+  <data name="MotDePasse" xml:space="preserve">
+    <value>Mot de passe</value>
+  </data>
+  <data name="Nom" xml:space="preserve">
+    <value>Nom</value>
+  </data>
+  <data name="Nom_Pays" xml:space="preserve">
+    <value>Nom du pays</value>
+  </data>
+  <data name="Nom_PersonneDeReference" xml:space="preserve">
+    <value>Nom de la personne de reférence</value>
+  </data>
+  <data name="NoteEmployeur_NoterJob" xml:space="preserve">
+    <value>Note du client</value>
+  </data>
+  <data name="NotePrestataire_NoterJob" xml:space="preserve">
+    <value>Note du prestataire</value>
+  </data>
+  <data name="Notification" xml:space="preserve">
+    <value>Notification</value>
+  </data>
+  <data name="NumeroCompte" xml:space="preserve">
+    <value>Numéro de compte</value>
+  </data>
+  <data name="Objet_Messagerie" xml:space="preserve">
+    <value>Objet du message</value>
+  </data>
+  <data name="Pays" xml:space="preserve">
+    <value>Pays</value>
+  </data>
+  <data name="Periode_Cursus" xml:space="preserve">
+    <value>Periode d'obtention</value>
+  </data>
+  <data name="Photo" xml:space="preserve">
+    <value>Photo</value>
+  </data>
+  <data name="Piece_PieceJointe" xml:space="preserve">
+    <value>Piece jointe</value>
+  </data>
+  <data name="Poste_Cursus" xml:space="preserve">
+    <value>Poste occupé</value>
+  </data>
+  <data name="Prenom" xml:space="preserve">
+    <value>Prénom</value>
+  </data>
+  <data name="Prenom_PersonneDeReference" xml:space="preserve">
+    <value>Prénom de la personne de référence</value>
+  </data>
+  <data name="Prestataire" xml:space="preserve">
+    <value>Prestataire</value>
+  </data>
+  <data name="Profession_PersonneDeReference" xml:space="preserve">
+    <value>Profession de la personne de référence</value>
+  </data>
+  <data name="PublierPar" xml:space="preserve">
+    <value>Publié par</value>
+  </data>
+  <data name="RequiredField" xml:space="preserve">
+    <value>Ce champ est obligatoire.</value>
+  </data>
+  <data name="SecteurActivite" xml:space="preserve">
+    <value>Secteur d'activité</value>
+  </data>
+  <data name="Sexe" xml:space="preserve">
+    <value>Sexe</value>
+  </data>
+  <data name="Sexe_PersonneDeReference" xml:space="preserve">
+    <value>Sexe de la personne de référence</value>
+  </data>
+  <data name="SiteWeb" xml:space="preserve">
+    <value>Site web</value>
+  </data>
+  <data name="SousSecteurActivite" xml:space="preserve">
+    <value>Sous secteur d'activité</value>
+  </data>
+  <data name="Statut" xml:space="preserve">
+    <value>Statut</value>
+  </data>
+  <data name="StatutExistant" xml:space="preserve">
+    <value>Statut existant</value>
+  </data>
+  <data name="StringLength" xml:space="preserve">
+    <value>Le champ «&lt;span style="font-style:italic;color:black;"&gt;{0}&lt;/span&gt;» ne doit pas excéder 500 caractères.</value>
+  </data>
+  <data name="Structures_Cursus" xml:space="preserve">
+    <value>Etablissement/Entreprise</value>
+  </data>
+  <data name="Telephone" xml:space="preserve">
+    <value>Téléphone</value>
+  </data>
+  <data name="Telephone_PersonneDeReference" xml:space="preserve">
+    <value>Téléphone de la personne de référence</value>
+  </data>
+  <data name="Titre_Cursus" xml:space="preserve">
+    <value>Titre du cursus</value>
+  </data>
+  <data name="Titre_Cv" xml:space="preserve">
+    <value>Titre du CV</value>
+  </data>
+  <data name="Titre_Divers" xml:space="preserve">
+    <value>Titre du divers</value>
+  </data>
+  <data name="Titre_Jobs" xml:space="preserve">
+    <value>Titre du jobs</value>
+  </data>
+  <data name="Titre_Notification" xml:space="preserve">
+    <value>Titre de la notification</value>
+  </data>
+  <data name="Titre_Reference" xml:space="preserve">
+    <value>Titre de la référence</value>
+  </data>
+  <data name="Titre_Service" xml:space="preserve">
+    <value>Titre du service</value>
+  </data>
+  <data name="Titre_TypeMessagerie" xml:space="preserve">
+    <value>Titre de la messagerie</value>
+  </data>
+  <data name="TypeCompte" xml:space="preserve">
+    <value>Type de compte</value>
+  </data>
+  <data name="TypeCursus" xml:space="preserve">
+    <value>Type de cursus</value>
+  </data>
+  <data name="TypeJob" xml:space="preserve">
+    <value>Type de job</value>
+  </data>
+  <data name="Type_TypeCursus" xml:space="preserve">
+    <value>Type de cursus</value>
+  </data>
+  <data name="User" xml:space="preserve">
+    <value>Internaute</value>
+  </data>
+  <data name="User_Attribuer" xml:space="preserve">
+    <value>Prestataire</value>
+  </data>
+  <data name="User_Destinataire" xml:space="preserve">
+    <value>Destinataire</value>
+  </data>
+  <data name="User_Employeur" xml:space="preserve">
+    <value>Client</value>
+  </data>
+  <data name="User_Expediteur" xml:space="preserve">
+    <value>Expéditeur</value>
+  </data>
+  <data name="User_Inscrire" xml:space="preserve">
+    <value>Inscription gratuite sur LifeWork</value>
+  </data>
+  <data name="User_MesProjets" xml:space="preserve">
+    <value>Mes Projets</value>
+  </data>
+  <data name="User_Prestataire" xml:space="preserve">
+    <value>Prestataire</value>
+  </data>
+  <data name="User_Publier" xml:space="preserve">
+    <value>Employeur/client</value>
+  </data>
+  <data name="Messagerie" xml:space="preserve">
+    <value>Messagerie</value>
+  </data>
+  <data name="Jobs_OuvertPostulation" xml:space="preserve">
+    <value>Jobs ouvert aux postulations</value>
+  </data>
+  <data name="Edit" xml:space="preserve">
+    <value>Modifier</value>
+  </data>
+  <data name="Mask" xml:space="preserve">
+    <value>Masquer</value>
+  </data>
+  <data name="attribuer_Job" xml:space="preserve">
+    <value>Attribuer Job</value>
+  </data>
+  <data name="Login" xml:space="preserve">
+    <value>Login</value>
+  </data>
+  <data name="Job_Cloture" xml:space="preserve">
+    <value>Jobs Cloturé</value>
+  </data>
+  <data name="job_Dispo" xml:space="preserve">
+    <value>Jobs disponibles</value>
+  </data>
+  <data name="Mark_exec" xml:space="preserve">
+    <value>Marquer exécuté</value>
+  </data>
+  <data name="Dashboard" xml:space="preserve">
+    <value>Tableau de bord</value>
+  </data>
+  <data name="Noter" xml:space="preserve">
+    <value>Noter</value>
+  </data>
+  <data name="CDC" xml:space="preserve">
+    <value>Cahier des charges</value>
+  </data>
+</root>
